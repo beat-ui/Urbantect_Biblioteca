@@ -5,8 +5,7 @@ import re
 
 # ==================== CONFIGURACIÓN DE PÁGINA ====================
 st.set_page_config(
-    page_title="Libreria URBANTECT",
-    page_icon="📚",
+    page_title="Libreria Urbantect",
     layout="wide"
 )
 
@@ -79,7 +78,7 @@ if "mensaje_exito" not in st.session_state:
     st.session_state.mensaje_exito = None
 
 # ==================== ENCABEZADO ====================
-st.title("📚 INVENTARIO DE LA BIBLIOTECA")
+st.title("INVENTARIO DE LA BIBLIOTECA")
 
 col_a, col_b = st.columns([3, 1])
 with col_a:
@@ -96,7 +95,7 @@ if st.session_state.mensaje_exito:
 
 # ==================== BARRA LATERAL ====================
 with st.sidebar:
-    st.header("⚙️ Panel de Control")
+    st.header("Panel de Control")
 
     nuevo_modo = st.radio(
         "Modo de operación:",
@@ -112,7 +111,7 @@ with st.sidebar:
     st.divider()
 
     if st.session_state.modo == "Modificar":
-        st.subheader("➕ Registrar Nuevo Libro")
+        st.subheader(" Registrar Nuevo Libro")
 
         with st.form("form_registro", clear_on_submit=True):
             titulo = st.text_input("Título *")
@@ -152,7 +151,7 @@ with st.sidebar:
                         st.rerun()
 
 # ==================== BÚSQUEDA ====================
-st.subheader("🔍 Búsqueda de Libros")
+st.subheader(" Búsqueda de Libros")
 
 col1, col2, col3 = st.columns([1, 3, 1])
 with col1:
@@ -169,7 +168,7 @@ with col3:
         termino = ""
 
 # Búsqueda global
-termino_global = st.text_input("🌐 Búsqueda global (en todos los campos)", placeholder="Escribe aquí...")
+termino_global = st.text_input("Búsqueda global (en todos los campos)", placeholder="Escribe aquí...")
 
 # ==================== FILTRADO ====================
 libros_filtrados = st.session_state.libros
@@ -190,7 +189,7 @@ if termino_global:
     libros_filtrados = resultados
 
 # ==================== TABLA ====================
-st.subheader(f"📖 Libros Registrados ({len(libros_filtrados)} encontrados)")
+st.subheader(f"Libros Registrados ({len(libros_filtrados)} encontrados)")
 
 if libros_filtrados:
     datos_tabla = []
@@ -219,7 +218,7 @@ else:
 # ==================== ACCIONES SOBRE LIBRO SELECCIONADO ====================
 if libros_filtrados:
     st.divider()
-    st.subheader("🎯 Acciones sobre el libro")
+    st.subheader("Acciones sobre el libro")
 
     opciones = {
         f"{i}. {libro.get('Titulo', 'Sin título')} — {libro.get('Autor', '')}": (i - 1, libro)
@@ -233,7 +232,7 @@ if libros_filtrados:
     if st.session_state.modo == "Consultar":
         col1, col2 = st.columns([1, 1])
         with col1:
-            if st.button("✏️ Editar este libro", use_container_width=True):
+            if st.button("Editar este libro", use_container_width=True):
                 st.session_state.libro_en_edicion = libro_sel
                 st.session_state.modo = "Modificar"
                 st.rerun()
@@ -241,11 +240,11 @@ if libros_filtrados:
     elif st.session_state.modo == "Modificar":
         col1, col2, col3 = st.columns([1, 1, 1])
         with col1:
-            if st.button("✏️ Editar", use_container_width=True):
+            if st.button("Editar", use_container_width=True):
                 st.session_state.libro_en_edicion = libro_sel
                 st.rerun()
         with col2:
-            if st.button("🗑️ Eliminar", use_container_width=True):
+            if st.button("Eliminar", use_container_width=True):
                 id_libro = libro_sel.get("id")
                 st.session_state.libros = [
                     l for l in st.session_state.libros if l.get("id") != id_libro
@@ -258,7 +257,7 @@ if libros_filtrados:
                     st.rerun()
 
         # ==================== ORDENAMIENTO MANUAL ====================
-        st.markdown("##### 🔀 Ordenamiento manual")
+        st.markdown("##### Ordenamiento manual")
         st.caption("Mueve este libro dentro de la lista. Solo funciona cuando ves TODOS los libros (sin filtros).")
 
         hay_filtros = bool(termino) or bool(termino_global)
@@ -266,7 +265,7 @@ if libros_filtrados:
         col_u, col_d, col_t, col_b = st.columns(4)
 
         with col_u:
-            if st.button("⬆️ Subir", use_container_width=True, disabled=hay_filtros):
+            if st.button("Subir", use_container_width=True, disabled=hay_filtros):
                 idx_real = st.session_state.libros.index(libro_sel)
                 if idx_real > 0:
                     st.session_state.libros.pop(idx_real)
@@ -279,7 +278,7 @@ if libros_filtrados:
                     st.warning("Ya está en la primera posición.")
 
         with col_d:
-            if st.button("⬇️ Bajar", use_container_width=True, disabled=hay_filtros):
+            if st.button("Bajar", use_container_width=True, disabled=hay_filtros):
                 idx_real = st.session_state.libros.index(libro_sel)
                 if idx_real < len(st.session_state.libros) - 1:
                     st.session_state.libros.pop(idx_real)
@@ -292,7 +291,7 @@ if libros_filtrados:
                     st.warning("Ya está en la última posición.")
 
         with col_t:
-            if st.button("⏫ Al principio", use_container_width=True, disabled=hay_filtros):
+            if st.button("Al principio", use_container_width=True, disabled=hay_filtros):
                 idx_real = st.session_state.libros.index(libro_sel)
                 if idx_real > 0:
                     st.session_state.libros.pop(idx_real)
@@ -305,7 +304,7 @@ if libros_filtrados:
                     st.warning("Ya está en la primera posición.")
 
         with col_b:
-            if st.button("⏬ Al final", use_container_width=True, disabled=hay_filtros):
+            if st.button("Al final", use_container_width=True, disabled=hay_filtros):
                 idx_real = st.session_state.libros.index(libro_sel)
                 if idx_real < len(st.session_state.libros) - 1:
                     st.session_state.libros.pop(idx_real)
@@ -318,12 +317,12 @@ if libros_filtrados:
                     st.warning("Ya está en la última posición.")
 
         if hay_filtros:
-            st.info("ℹ️ Para usar el ordenamiento manual, primero quita los filtros de búsqueda (deja los campos vacíos y presiona 'Mostrar Todos').")
+            st.info("Para usar el ordenamiento manual, primero quita los filtros de búsqueda (deja los campos vacíos y presiona 'Mostrar Todos').")
 
 # ==================== FORMULARIO DE EDICIÓN ====================
 if st.session_state.libro_en_edicion:
     st.divider()
-    st.subheader("📝 Editando libro")
+    st.subheader("Editando libro")
 
     libro = st.session_state.libro_en_edicion
 
@@ -339,9 +338,9 @@ if st.session_state.libro_en_edicion:
 
         col_save, col_cancel = st.columns(2)
         with col_save:
-            guardar = st.form_submit_button("💾 Guardar cambios", use_container_width=True)
+            guardar = st.form_submit_button("Guardar cambios", use_container_width=True)
         with col_cancel:
-            cancelar = st.form_submit_button("❌ Cancelar", use_container_width=True)
+            cancelar = st.form_submit_button("Cancelar", use_container_width=True)
 
         if guardar:
             if not titulo or not autor or not lcc:
@@ -378,7 +377,7 @@ if st.session_state.libro_en_edicion:
 
 # ==================== EXPORTAR ====================
 st.divider()
-if st.button("💾 Exportar/Guardar JSON"):
+if st.button("Exportar/Guardar JSON"):
     if guardar_datos(st.session_state.libros):
         st.session_state.mensaje_exito = f"Datos guardados. Total: {len(st.session_state.libros)} libros."
         st.rerun()
