@@ -2,6 +2,7 @@ import streamlit as st
 import json
 import os
 import re
+from streamlit_js_eval import streamlit_js_eval
 
 # ==================== CONFIGURACIÓN DE PÁGINA ====================
 st.set_page_config(
@@ -13,14 +14,35 @@ st.set_page_config(
 # CSS para aprovechar todo el ancho de la pantalla
 st.markdown("""
     <style>
-        .block-container {
-            padding-left: 1rem !important;
-            padding-right: 1rem !important;
-            padding-top: 1rem !important;
+        .block-container,
+        .block-container.css-1y4p8pa,
+        .block-container.css-91z34k,
+        .stApp > header + div {
+            padding-left: 0.5rem !important;
+            padding-right: 0.5rem !important;
+            padding-top: 0.5rem !important;
+            max-width: 100% !important;
+            width: 100% !important;
+        }
+        section.main,
+        section.main > div {
+            max-width: 100% !important;
+            width: 100% !important;
+            padding: 0 !important;
+        }
+        div[data-testid="stDataFrame"],
+        div[data-testid="stDataFrame"] > div,
+        div[data-testid="stDataFrameResizable"],
+        div[data-testid="stDataFrame"] iframe {
+            width: 100% !important;
             max-width: 100% !important;
         }
-        [data-testid="stDataFrame"] {
-            width: 100% !important;
+        .main .block-container {
+            padding-left: 0.5rem !important;
+            padding-right: 0.5rem !important;
+        }
+        [data-testid="stSidebar"] {
+            min-width: 250px !important;
         }
     </style>
 """, unsafe_allow_html=True)
@@ -220,11 +242,21 @@ if libros_filtrados:
             "Ubicacion": libro.get("Ubicacion", ""),
         })
 
+    # Altura responsive: leer la altura real de la ventana del navegador
+    altura_pantalla = streamlit_js_eval(js_expressions='window.innerHeight', key='altura_ventana')
+
+    if altura_pantalla:
+        altura_dataframe = int(altura_pantalla) - 400  # 400 px reservados para encabezados
+        if altura_dataframe < 300:
+            altura_dataframe = 300  # Mínimo razonable
+    else:
+        altura_dataframe = 600  # Valor de respaldo mientras carga JS
+
     st.dataframe(
         datos_tabla,
         use_container_width=True,
         hide_index=True,
-        height=500,
+        height=altura_dataframe,
         column_config={
             "No.": st.column_config.NumberColumn("No.", width="small"),
             "LCC": st.column_config.TextColumn("LCC", width="small"),
