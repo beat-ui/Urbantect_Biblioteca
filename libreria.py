@@ -6,8 +6,24 @@ import re
 # ==================== CONFIGURACIÓN DE PÁGINA ====================
 st.set_page_config(
     page_title="Libreria Urbantect",
-    layout="wide"
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
+
+# CSS para aprovechar todo el ancho de la pantalla
+st.markdown("""
+    <style>
+        .block-container {
+            padding-left: 1rem !important;
+            padding-right: 1rem !important;
+            padding-top: 1rem !important;
+            max-width: 100% !important;
+        }
+        [data-testid="stDataFrame"] {
+            width: 100% !important;
+        }
+    </style>
+""", unsafe_allow_html=True)
 
 # ==================== FUNCIONES DE ARCHIVO ====================
 def obtener_ruta_app():
@@ -88,7 +104,6 @@ with col_b:
     color = "🔵" if modo_actual == "Consultar" else "🟢"
     st.markdown(f"### {color} MODO {modo_actual.upper()}")
 
-# Mostrar mensaje de éxito si existe
 if st.session_state.mensaje_exito:
     st.success(st.session_state.mensaje_exito)
     st.session_state.mensaje_exito = None
@@ -111,7 +126,7 @@ with st.sidebar:
     st.divider()
 
     if st.session_state.modo == "Modificar":
-        st.subheader(" Registrar Nuevo Libro")
+        st.subheader("Registrar Nuevo Libro")
 
         with st.form("form_registro", clear_on_submit=True):
             titulo = st.text_input("Título *")
@@ -151,7 +166,7 @@ with st.sidebar:
                         st.rerun()
 
 # ==================== BÚSQUEDA ====================
-st.subheader(" Búsqueda de Libros")
+st.subheader("Búsqueda de Libros")
 
 col1, col2, col3 = st.columns([1, 3, 1])
 with col1:
@@ -167,7 +182,6 @@ with col3:
     if st.button("Mostrar Todos", use_container_width=True):
         termino = ""
 
-# Búsqueda global
 termino_global = st.text_input("Búsqueda global (en todos los campos)", placeholder="Escribe aquí...")
 
 # ==================== FILTRADO ====================
@@ -210,7 +224,18 @@ if libros_filtrados:
         datos_tabla,
         use_container_width=True,
         hide_index=True,
-        height=400
+        height=500,
+        column_config={
+            "No.": st.column_config.NumberColumn("No.", width="small"),
+            "LCC": st.column_config.TextColumn("LCC", width="small"),
+            "Titulo": st.column_config.TextColumn("Título", width="large"),
+            "Autor": st.column_config.TextColumn("Autor", width="medium"),
+            "ISBN": st.column_config.TextColumn("ISBN", width="small"),
+            "Materia": st.column_config.TextColumn("Materia", width="medium"),
+            "Año": st.column_config.TextColumn("Año", width="small"),
+            "Editorial": st.column_config.TextColumn("Editorial", width="medium"),
+            "Ubicacion": st.column_config.TextColumn("Ubicación", width="small"),
+        }
     )
 else:
     st.warning("No se encontraron libros.")
@@ -228,7 +253,6 @@ if libros_filtrados:
     seleccion = st.selectbox("Selecciona un libro:", list(opciones.keys()))
     idx_filtrado, libro_sel = opciones[seleccion]
 
-    # Botones según modo
     if st.session_state.modo == "Consultar":
         col1, col2 = st.columns([1, 1])
         with col1:
