@@ -1,8 +1,7 @@
 import streamlit as st
-import json
-import os
-import re
+import pandas as pd
 from streamlit_js_eval import streamlit_js_eval
+import re
 
 # ==================== CONFIGURACIÓN DE PÁGINA ====================
 st.set_page_config(
@@ -11,30 +10,95 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+# CSS para aprovechar todo el ancho de la pantalla
+st.markdown("""
+    <style>
+        .block-container,
+        .stApp > header + div {
+            padding-left: 0.5rem !important;
+            padding-right: 0.5rem !important;
+            padding-top: 0.5rem !important;
+            max-width: 100% !important;
+            width: 100% !important;
+        }
+        section.main,
+        section.main > div {
+            max-width: 100% !important;
+            width: 100% !important;
+            padding: 0 !important;
+        }
+        div[data-testid="stDataFrame"],
+        div[data-testid="stDataFrame"] > div,
+        div[data-testid="stDataFrameResizable"],
+        div[data-testid="stDataFrame"] iframe {
+            width: 100% !important;
+            max-width: 100% !important;
+        }
+        .main .block-container {
+            padding-left: 0.5rem !important;
+            padding-right: 0.5rem !important;
+        }
+        [data-testid="stSidebar"] {
+            min-width: 250px !important;
+        }
+    </style>
+""", unsafe_allow_html=True)
 
-# ==================== FUNCIONES DE ARCHIVO ====================
-def obtener_ruta_app():
-    return os.path.dirname(os.path.abspath(__file__))
+# ==================== CONEXIÓN A NEON ====================
+def obtener_conexion():
+    return st.connection("neon", type="sql")
 
+# ==================== FUNCIONES DE DATOS ====================
 def cargar_datos():
-    json_path = os.path.join(obtener_ruta_app(), "inventario_libros.json")
-    if os.path.exists(json_path):
-        try:
-            with open(json_path, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception as e:
-            st.error(f"Error al cargar: {e}")
-            return []
-    return []
+    """Lee los libros desde Neon y los devuelve como lista de diccionarios."""
+    conn = obtener_conexion()
+    try:
+        df = conn.query(
+            "SELECT id, titulo, autor, isbn, materia, anio, editorial, lcc, ubicacion FROM libros ORDER BY id",
+            ttl=0
+        )
+        df = df.rename(columns={
+            "titulo": "Titulo",
+            "autor": "Autor",
+            "isbn": "ISBN",
+            "materia": "Materia",
+            "anio": "Año",
+            "editorial": "Editorial",
+            "lcc": "LCC",
+            "ubicacion": "Ubicacion"
+        })
+        return df.to_dict(orient="records")
+    except Exception as e:
+        st.error(f"Error al cargar de Neon: {e}")
+        return []
 
 def guardar_datos(libros):
-    json_path = os.path.join(obtener_ruta_app(), "inventario_libros.json")
+    """Guarda la lista de libros en Neon (reemplaza todo el contenido)."""
+    conn = obtener_conexion()
     try:
-        with open(json_path, "w", encoding="utf-8") as f:
-            json.dump(libros, f, indent=4, ensure_ascii=False)
+        with conn.session as session:
+            session.execute("TRUNCATE TABLE libros RESTART IDENTITY;")
+            for libro in libros:
+                session.execute(
+                    """
+                    INSERT INTO libros (titulo, autor, isbn, materia, anio, editorial, lcc, ubicacion)
+                    VALUES (:titulo, :autor, :isbn, :materia, :anio, :editorial, :lcc, :ubicacion)
+                    """,
+                    {
+                        "titulo": libro.get("Titulo", ""),
+                        "autor": libro.get("Autor", ""),
+                        "isbn": libro.get("ISBN", ""),
+                        "materia": libro.get("Materia", ""),
+                        "anio": libro.get("Año", ""),
+                        "editorial": libro.get("Editorial", ""),
+                        "lcc": libro.get("LCC", ""),
+                        "ubicacion": libro.get("Ubicacion", "")
+                    }
+                )
+            session.commit()
         return True
     except Exception as e:
-        st.error(f"Error al guardar: {e}")
+        st.error(f"Error al guardar en Neon: {e}")
         return False
 
 # ==================== ORDENAMIENTO LCC ====================
@@ -72,7 +136,7 @@ if "libros" not in st.session_state:
     st.session_state.libros = cargar_datos()
 
 if "modo" not in st.session_state:
-    st.session_state.modo = "Consutar"
+    st.session_state.modo = "Consultar"
 
 if "libro_en_edicion" not in st.session_state:
     st.session_state.libro_en_edicion = None
@@ -91,8 +155,7 @@ with col_a:
     st.caption(f"Total de libros en inventario: **{len(st.session_state.libros)}**")
 with col_b:
     modo_actual = st.session_state.modo
-    color = "🔵" if modo_actual == "Consultar" else "🟢"
-    st.markdown(f"### {color} MODO {modo_actual.upper()}")
+    st.markdown(f"### MODO {modo_actual.upper()}")
 
 if st.session_state.mensaje_exito:
     st.success(st.session_state.mensaje_exito)
@@ -220,7 +283,6 @@ if libros_filtrados:
     else:
         altura_dataframe = 600
 
-    # Tabla con selección por clic
     evento = st.dataframe(
         datos_tabla,
         use_container_width=True,
@@ -242,7 +304,6 @@ if libros_filtrados:
         }
     )
 
-    # Detectar si el usuario hizo clic en alguna fila
     filas_seleccionadas = evento.selection.rows
     if filas_seleccionadas:
         idx_fila = filas_seleccionadas[0]
@@ -394,8 +455,6 @@ if st.session_state.libro_en_edicion:
                     "id": libro.get("id")
                 }
 
-                # === AQUÍ ESTÁ EL CAMBIO CLAVE ===
-                # Solo reordenar si el LCC cambió. Si no, mantiene la posición.
                 lcc_cambio = libro_actualizado["LCC"] != libro.get("LCC", "")
 
                 idx = st.session_state.libros.index(libro)
@@ -419,9 +478,9 @@ if st.session_state.libro_en_edicion:
             st.session_state.libro_en_edicion = None
             st.rerun()
 
-# ==================== EXPORTAR ====================
+# ==================== GUARDAR ====================
 st.divider()
-if st.button("Exportar/Guardar JSON"):
+if st.button("Guardar cambios en Neon"):
     if guardar_datos(st.session_state.libros):
         st.session_state.mensaje_exito = f"Datos guardados. Total: {len(st.session_state.libros)} libros."
         st.rerun()
