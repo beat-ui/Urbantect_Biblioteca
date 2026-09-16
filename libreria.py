@@ -72,7 +72,7 @@ if "libros" not in st.session_state:
     st.session_state.libros = cargar_datos()
 
 if "modo" not in st.session_state:
-    st.session_state.modo = "Consutar"
+    st.session_state.modo = "Consultar"
 
 if "libro_en_edicion" not in st.session_state:
     st.session_state.libro_en_edicion = None
