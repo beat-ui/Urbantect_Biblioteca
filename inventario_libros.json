@@ -7,7 +7,7 @@
         "Año": "2000",
         "Editorial": "Encyclopedia Britannica Publishers, Inc.",
         "LCC": "AE 5 E36 2000",
-        "Ubicacion": "(1, 5)",
+        "Ubicacion": "(1, 5)  Estantería 1 Repisa A",
         "id": 1
     },
     {
@@ -18,7 +18,7 @@
         "Año": "2001",
         "Editorial": "Barsa Planeta",
         "LCC": "AE 5 E35 2001",
-        "Ubicacion": "(1.5, 5)",
+        "Ubicacion": "(1.5, 5)  Estantería 1 Repisa A",
         "id": 2
     },
     {
@@ -29,7 +29,7 @@
         "Año": "2001",
         "Editorial": "Encyclopedia Britannica, Inc.",
         "LCC": "AE 5 E364 2001",
-        "Ubicacion": "(2, 5)",
+        "Ubicacion": "(2, 5)  Estantería 1 Repisa A",
         "id": 3
     },
     {
@@ -40,7 +40,7 @@
         "Año": "2002",
         "Editorial": "Parsa Planeta, Inc.",
         "LCC": "AE 5 E35 2002",
-        "Ubicacion": "(2.5, 5)",
+        "Ubicacion": "(2.5, 5) Estantería 1 Repisa A",
         "id": 4
     },
     {
@@ -51,7 +51,7 @@
         "Año": "2002",
         "Editorial": "Encyclopedia Britannica, Inc.",
         "LCC": "AE 5 E36 2002",
-        "Ubicacion": "(3, 5)",
+        "Ubicacion": "(3, 5) Estantería 1 Repisa A",
         "id": 5
     },
     {
@@ -62,7 +62,7 @@
         "Año": "2003",
         "Editorial": "Barsa Planeta, Inc.",
         "LCC": "AE 5 E35 2003",
-        "Ubicacion": "(4, 5)",
+        "Ubicacion": "(4, 5) Estantería 1 Repisa A",
         "id": 6
     },
     {
@@ -73,7 +73,7 @@
         "Año": "2003",
         "Editorial": "Encyclopedia Britannica, Inc.",
         "LCC": "AE 5 E364 2003",
-        "Ubicacion": "(4.5, 5)",
+        "Ubicacion": "(4.5, 5) Estantería 1 Repisa A",
         "id": 7
     },
     {
@@ -84,7 +84,7 @@
         "Año": "2004",
         "Editorial": "Encyclopedia Britannica, Inc.",
         "LCC": "AE 5 E364 2004",
-        "Ubicacion": "(5, 5)",
+        "Ubicacion": "(5, 5) Estantería 1 Repisa A",
         "id": 8
     },
     {
@@ -95,7 +95,7 @@
         "Año": "1994",
         "Editorial": "Beacon Press books",
         "LCC": "B 2430 B253 P6313",
-        "Ubicacion": "(1, 4)",
+        "Ubicacion": "(1, 4) Estantería 1 Repisa B",
         "id": 9
     },
     {
@@ -106,7 +106,7 @@
         "Año": "1984",
         "Editorial": "PROGRESO Moscú",
         "LCC": "BC 117 R87 A5318",
-        "Ubicacion": "(1, 4)",
+        "Ubicacion": "(1, 4) Estantería 1 Repisa B",
         "id": 10
     },
     {
@@ -117,7 +117,7 @@
         "Año": "1977",
         "Editorial": "William Kaufmann, Inc.",
         "LCC": "BF 456 D7 H27",
-        "Ubicacion": "(1, 4)",
+        "Ubicacion": "(1, 4) Estantería 1 Repisa B",
         "id": 11
     },
     {
@@ -128,7 +128,7 @@
         "Año": "1994",
         "Editorial": "grijalbo.",
         "LCC": "BF 501 C642",
-        "Ubicacion": "(2, 4)",
+        "Ubicacion": "(2, 4) Estantería 1 Repisa B",
         "id": 12
     },
     {
@@ -139,7 +139,7 @@
         "Año": "2001",
         "Editorial": "Ediciones URANO",
         "LCC": "BF 503 E43",
-        "Ubicacion": "(2, 4)",
+        "Ubicacion": "(2, 4) Estantería 1 Repisa B",
         "id": 13
     },
     {
@@ -150,7 +150,7 @@
         "Año": "1995",
         "Editorial": "MONARCA Ediciones.",
         "LCC": "BF 505 C32",
-        "Ubicacion": "(2.5, 4)",
+        "Ubicacion": "(2.5, 4) Estantería 1 Repisa B",
         "id": 14
     },
     {
@@ -161,7 +161,7 @@
         "Año": "1998",
         "Editorial": "grijalbo.",
         "LCC": "BF 575 H5518",
-        "Ubicacion": "(2.7, 4)",
+        "Ubicacion": "(2.7, 4) Estantería 1 Repisa B",
         "id": 15
     },
     {
@@ -172,7 +172,7 @@
         "Año": "1998",
         "Editorial": "Richard Carlson, Ph. D.",
         "LCC": "BF 637 C5 C35",
-        "Ubicacion": "(3.5, 4)",
+        "Ubicacion": "(3.5, 4) Estantería 1 Repisa B",
         "id": 16
     },
     {
@@ -183,7 +183,7 @@
         "Año": "2006",
         "Editorial": "DEBOLSILLO.",
         "LCC": "BF 637 C45 2006",
-        "Ubicacion": "(4, 4)",
+        "Ubicacion": "(4, 4) Estantería 1 Repisa B",
         "id": 17
     },
     {
@@ -194,7 +194,7 @@
         "Año": "1999",
         "Editorial": "Viking Penguin.",
         "LCC": "BF 637 C45 S78",
-        "Ubicacion": "(4.5, 4)",
+        "Ubicacion": "(4.5, 4)  Estantería 1 Repisa B",
         "id": 18
     },
     {
@@ -205,7 +205,7 @@
         "Año": "1991",
         "Editorial": "Planeta.",
         "LCC": "BF 637 N4 C55",
-        "Ubicacion": "(4.8, 4)",
+        "Ubicacion": "(4.8, 4) Estantería 1 Repisa B",
         "id": 19
     },
     {
@@ -216,7 +216,7 @@
         "Año": "1998",
         "Editorial": "grijalbo.",
         "LCC": "BF 637 N4 H56",
-        "Ubicacion": "(5, 4)",
+        "Ubicacion": "(5, 4) Estantería 1 Repisa B",
         "id": 20
     },
     {
@@ -227,7 +227,7 @@
         "Año": "No encontrado.",
         "Editorial": "KARRAS.",
         "LCC": "BF 637 N4 K26",
-        "Ubicacion": "(5.3, 4)",
+        "Ubicacion": "(5.3, 4) Estantería 1 Repisa B",
         "id": 21
     },
     {
@@ -238,7 +238,7 @@
         "Año": "1993",
         "Editorial": "HarperBusiness.",
         "LCC": "BF 637 N4 K27",
-        "Ubicacion": "(5.7, 4)",
+        "Ubicacion": "(5.7, 4) Estantería 1 Repisa B",
         "id": 22
     },
     {
@@ -249,7 +249,7 @@
         "Año": "1992",
         "Editorial": "HappyBusiness.",
         "LCC": "BF 637 N4 K28",
-        "Ubicacion": "(6.3, 4)",
+        "Ubicacion": "(6.3, 4) Estantería 1 Repisa B",
         "id": 23
     },
     {
@@ -260,7 +260,7 @@
         "Año": "1975",
         "Editorial": "EDITORIAL SUDAMERICANA.",
         "LCC": "BF 637 S8 C37",
-        "Ubicacion": "(6.8, 4)",
+        "Ubicacion": "(6.8, 4) Estantería 1 Repisa B",
         "id": 24
     },
     {
@@ -271,7 +271,7 @@
         "Año": "1995",
         "Editorial": "editorial PAIDOS.",
         "LCC": "BF 637 S8 C68",
-        "Ubicacion": "(7, 4)",
+        "Ubicacion": "(7, 4) Estantería 1 Repisa B",
         "id": 25
     },
     {
@@ -282,7 +282,7 @@
         "Año": "2000",
         "Editorial": "BETANIA.",
         "LCC": "BF 637 S8 M3416",
-        "Ubicacion": "(7.5, 4)",
+        "Ubicacion": "(7.5, 4) Estantería 1 Repisa B",
         "id": 26
     },
     {
@@ -293,7 +293,7 @@
         "Año": "1999",
         "Editorial": "McGRAW Hill.",
         "LCC": "BF 697 B63 V37",
-        "Ubicacion": "(7.8, 4)",
+        "Ubicacion": "(7.8, 4) Estantería 1 Repisa B",
         "id": 27
     },
     {
@@ -304,7 +304,7 @@
         "Año": "1998",
         "Editorial": "ROHM.",
         "LCC": "BF 698 R6",
-        "Ubicacion": "(8, 4)",
+        "Ubicacion": "(8, 4) Estantería 1 Repisa B",
         "id": 28
     },
     {
@@ -315,7 +315,7 @@
         "Año": "2000",
         "Editorial": "Pax México",
         "LCC": "BF 698.35 P47 A23",
-        "Ubicacion": "(8.3, 4)",
+        "Ubicacion": "(8.3, 4) Estantería 1 Repisa B",
         "id": 29
     },
     {
@@ -326,7 +326,7 @@
         "Año": "1998",
         "Editorial": "Ballantine Books.",
         "LCC": "BF 698.4 D53 1998",
-        "Ubicacion": "(8.5, 4)",
+        "Ubicacion": "(8.5, 4) Estantería 1 Repisa B",
         "id": 30
     },
     {
@@ -337,7 +337,7 @@
         "Año": "1997",
         "Editorial": "UNILIT",
         "LCC": "BF 723 C57 C475",
-        "Ubicacion": "(8.6, 4)",
+        "Ubicacion": "(8.6, 4) Estantería 1 Repisa B",
         "id": 31
     },
     {
@@ -348,7 +348,7 @@
         "Año": "1997",
         "Editorial": "EDICIONES BOTAS.",
         "LCC": "BF 1611.2 A5418 Ej. 2",
-        "Ubicacion": "(8.9, 4)",
+        "Ubicacion": "(8.9, 4) Estantería 1 Repisa B",
         "id": 32
     },
     {
@@ -359,7 +359,7 @@
         "Año": "1999",
         "Editorial": "EDICIONES BOTAS",
         "LCC": "BF 1611.2 A5418 v. 3",
-        "Ubicacion": "(9, 4)",
+        "Ubicacion": "(9, 4) Estantería 1 Repisa B",
         "id": 33
     },
     {
@@ -370,7 +370,7 @@
         "Año": "1981",
         "Editorial": "SHAMBALA.",
         "LCC": "BH 301 C84 D62 1981",
-        "Ubicacion": "(9.5, 4)",
+        "Ubicacion": "(9.5, 4) Estantería 1 Repisa B",
         "id": 34
     },
     {
@@ -381,7 +381,7 @@
         "Año": "1994",
         "Editorial": "SIMON & SCHUSTER",
         "LCC": "BJ 1581.2 C66",
-        "Ubicacion": "(9.7, 4)",
+        "Ubicacion": "(9.7, 4) Estantería 1 Repisa B",
         "id": 35
     },
     {
@@ -392,7 +392,7 @@
         "Año": "1991",
         "Editorial": "MC Graw Hill",
         "LCC": "BJ 1600 C6",
-        "Ubicacion": "(10, 4)",
+        "Ubicacion": "(10, 4) Estantería 1 Repisa B",
         "id": 36
     },
     {
@@ -403,7 +403,7 @@
         "Año": "1995",
         "Editorial": "VECCHI.",
         "LCC": "BJ 2101 S27",
-        "Ubicacion": "(11, 4)",
+        "Ubicacion": "(11, 4) Estantería 1 Repisa B",
         "id": 37
     },
     {
@@ -414,7 +414,7 @@
         "Año": "1992",
         "Editorial": "HERREROS HERMANOS, SUCS., S.A. EDITORES MEXICO",
         "LCC": "BJ 1725 M4",
-        "Ubicacion": "(11.3, 4)",
+        "Ubicacion": "(11.3, 4) Estantería 1 Repisa B",
         "id": 38
     },
     {
@@ -425,7 +425,7 @@
         "Año": "1994",
         "Editorial": "Ediciones XAVERIANAS, S.A. DE C.V.",
         "LCC": "BS 100 M12",
-        "Ubicacion": "(11.4, 4)",
+        "Ubicacion": "(11.4, 4) Estantería 1 Repisa B",
         "id": 39
     },
     {
@@ -436,7 +436,7 @@
         "Año": "1987",
         "Editorial": "International Bible Students Association Brooklyn, New York, U.S.A.",
         "LCC": "BS 140 W3",
-        "Ubicacion": "(11.7, 4)",
+        "Ubicacion": "(11.7, 4) Estantería 1 Repisa B",
         "id": 40
     },
     {
@@ -447,7 +447,7 @@
         "Año": "2013",
         "Editorial": "Harvest house",
         "LCC": "BV 4598.3 L39 2013",
-        "Ubicacion": "(12, 4)",
+        "Ubicacion": "(12, 4) Estantería 1 Repisa B",
         "id": 41
     },
     {
@@ -458,7 +458,7 @@
         "Año": "1996",
         "Editorial": "HYPERION New York.",
         "LCC": "BV 4740 J66 Ej.1",
-        "Ubicacion": "(12.5, 4)",
+        "Ubicacion": "(12.5, 4) Estantería 1 Repisa B",
         "id": 42
     },
     {
@@ -469,7 +469,7 @@
         "Año": "1992",
         "Editorial": "Gallimard",
         "LCC": "CC 101 G8 E8513",
-        "Ubicacion": "(0.5, 3)",
+        "Ubicacion": "(0.5, 3) Estantería 1 Repisa C-G",
         "id": 43
     },
     {
@@ -480,7 +480,7 @@
         "Año": "1961",
         "Editorial": "Ediciones ECA S.A de C.V.",
         "LCC": "CD 959 G65",
-        "Ubicacion": "(1, 3)",
+        "Ubicacion": "(1, 3) Estantería 1 Repisa C-G",
         "id": 44
     },
     {
@@ -491,7 +491,7 @@
         "Año": "2004",
         "Editorial": "BARSA PLANETA.",
         "LCC": "D 410 E35 2004",
-        "Ubicacion": "(1.2, 3)",
+        "Ubicacion": "(1.2, 3) Estantería 1 Repisa C-G",
         "id": 45
     },
     {
@@ -502,7 +502,7 @@
         "Año": "2004",
         "Editorial": "Prensa Digital, S.A. de C.V.",
         "LCC": "D 410 F67 2004 V.1",
-        "Ubicacion": "(1.5, 3)",
+        "Ubicacion": "(1.5, 3) Estantería 1 Repisa C-G",
         "id": 46
     },
     {
@@ -513,7 +513,7 @@
         "Año": "2004",
         "Editorial": "Prensa Digital, S.A. de C.V.",
         "LCC": "D 410 F67 2004 V.2",
-        "Ubicacion": "(1.8, 3)",
+        "Ubicacion": "(1.8, 3) Estantería 1 Repisa C-G",
         "id": 47
     },
     {
@@ -524,7 +524,7 @@
         "Año": "2002",
         "Editorial": "Thames & Hudson Ltd, London.",
         "LCC": "DC 611 A87 2002",
-        "Ubicacion": "(2, 3)",
+        "Ubicacion": "(2, 3) Estantería 1 Repisa C-G",
         "id": 48
     },
     {
@@ -535,7 +535,7 @@
         "Año": "2002",
         "Editorial": "EL PAIS AGUILAR.",
         "LCC": "DD 16 G4314 2002",
-        "Ubicacion": "(2.5, 3)",
+        "Ubicacion": "(2.5, 3) Estantería 1 Repisa C-G",
         "id": 49
     },
     {
@@ -546,7 +546,7 @@
         "Año": "1981",
         "Editorial": "CASA EDITRICE BONECHI.",
         "LCC": "DG 43 M25",
-        "Ubicacion": "(3, 3)",
+        "Ubicacion": "(3, 3) Estantería 1 Repisa C-G",
         "id": 50
     },
     {
@@ -557,7 +557,7 @@
         "Año": "1991",
         "Editorial": "Gallimard.",
         "LCC": "DT 3 H8413",
-        "Ubicacion": "(4.5, 3)",
+        "Ubicacion": "(4.5, 3) Estantería 1 Repisa C-G",
         "id": 51
     },
     {
@@ -568,7 +568,7 @@
         "Año": "1992",
         "Editorial": "Gallimard",
         "LCC": "DT 60 V3",
-        "Ubicacion": "(5, 3)",
+        "Ubicacion": "(5, 3) Estantería 1 Repisa C-G",
         "id": 52
     },
     {
@@ -579,7 +579,7 @@
         "Año": "1975",
         "Editorial": "Houghton Mifflin Company.",
         "LCC": "DT 63 M25",
-        "Ubicacion": "(5, 3)",
+        "Ubicacion": "(5, 3) Estantería 1 Repisa C-G",
         "id": 53
     },
     {
@@ -590,7 +590,7 @@
         "Año": "1992",
         "Editorial": "Gallimard",
         "LCC": "F 2546 G4913",
-        "Ubicacion": "(5.3, 3)",
+        "Ubicacion": "(5.3, 3) Estantería 1 Repisa C-G",
         "id": 54
     },
     {
@@ -601,7 +601,7 @@
         "Año": "2010",
         "Editorial": "Universidad Nacional Autónoma de México.",
         "LCC": "F 1216.5 M49 C46 V.1 2010",
-        "Ubicacion": "(5.5, 3)",
+        "Ubicacion": "(5.5, 3) Estantería 1 Repisa C-G",
         "id": 55
     },
     {
@@ -612,7 +612,7 @@
         "Año": "2010",
         "Editorial": "Universidad Nacional Autónoma de México.",
         "LCC": "F 1216.5 M49 C46 V.2 2010",
-        "Ubicacion": "(5.8, 3)",
+        "Ubicacion": "(5.8, 3) Estantería 1 Repisa C-G",
         "id": 56
     },
     {
@@ -623,7 +623,7 @@
         "Año": "2005",
         "Editorial": "The University of Texas Press.",
         "LCC": "F 1401 L34 2005 V.1",
-        "Ubicacion": "(6, 3)",
+        "Ubicacion": "(6, 3) Estantería 1 Repisa C-G",
         "id": 57
     },
     {
@@ -634,7 +634,7 @@
         "Año": "2005",
         "Editorial": "The University of Texas Press.",
         "LCC": "F 1401 L34 2005 V.2",
-        "Ubicacion": "(6.2, 3)",
+        "Ubicacion": "(6.2, 3) Estantería 1 Repisa C-G",
         "id": 58
     },
     {
@@ -645,7 +645,7 @@
         "Año": "2005",
         "Editorial": "The University of Texas Press.",
         "LCC": "F 1401 L34 2005 V.3",
-        "Ubicacion": "(6.8, 3)",
+        "Ubicacion": "(6.8, 3) Estantería 1 Repisa C-G",
         "id": 59
     },
     {
@@ -656,7 +656,7 @@
         "Año": "1992",
         "Editorial": "Gallimard.",
         "LCC": "F 1435 B38513",
-        "Ubicacion": "(7, 3)",
+        "Ubicacion": "(7, 3) Estantería 1 Repisa C-G",
         "id": 60
     },
     {
@@ -667,7 +667,7 @@
         "Año": "1997",
         "Editorial": "Herman Photo & Pina Studios",
         "LCC": "F1319 M43 G38 Ej.3",
-        "Ubicacion": "(7.5, 3)",
+        "Ubicacion": "(7.5, 3) Estantería 1 Repisa C-G",
         "id": 61
     },
     {
@@ -678,7 +678,7 @@
         "Año": "1998",
         "Editorial": "Gallimard",
         "LCC": "F 3429 B53713",
-        "Ubicacion": "(8, 3)",
+        "Ubicacion": "(8, 3) Estantería 1 Repisa C-G",
         "id": 62
     },
     {
@@ -689,7 +689,7 @@
         "Año": "2000",
         "Editorial": "Sabeca International Investment Corp.",
         "LCC": "F 1204 T63 2000",
-        "Ubicacion": "(8.5, 3)",
+        "Ubicacion": "(8.5, 3) Estantería 1 Repisa C-G",
         "id": 63
     },
     {
@@ -700,7 +700,7 @@
         "Año": "2001",
         "Editorial": "Sabeca International InvestmentCorp.",
         "LCC": "F 1204 T63 2001",
-        "Ubicacion": "(8.8, 3)",
+        "Ubicacion": "(8.8, 3) Estantería 1 Repisa C-G",
         "id": 64
     },
     {
@@ -711,7 +711,7 @@
         "Año": "2002",
         "Editorial": "Sabeca International Investment Corp.",
         "LCC": "F 1204 T63 2002",
-        "Ubicacion": "(9, 3)",
+        "Ubicacion": "(9, 3) Estantería 1 Repisa C-G",
         "id": 65
     },
     {
@@ -722,7 +722,7 @@
         "Año": "2003",
         "Editorial": "Sabeca International Investment Corp.",
         "LCC": "F 1204 T63 2003",
-        "Ubicacion": "(9.5, 3)",
+        "Ubicacion": "(9.5, 3) Estantería 1 Repisa C-G",
         "id": 66
     },
     {
@@ -733,7 +733,7 @@
         "Año": "2004",
         "Editorial": "Sabeca International Investment Corp.",
         "LCC": "F 1204 T63 2004",
-        "Ubicacion": "(10, 3)",
+        "Ubicacion": "(10, 3) Estantería 1 Repisa C-G",
         "id": 67
     },
     {
@@ -744,7 +744,7 @@
         "Año": "1997",
         "Editorial": "Herman Photo & Pina Studios.",
         "LCC": "F 1391 G38 Ej.6",
-        "Ubicacion": "(10.5, 3)",
+        "Ubicacion": "(10.5, 3) Estantería 1 Repisa C-G",
         "id": 68
     },
     {
@@ -755,7 +755,7 @@
         "Año": "2005",
         "Editorial": "AMAURA.",
         "LCC": "G 143 R43 2005",
-        "Ubicacion": "(11, 3)",
+        "Ubicacion": "(11, 3) Estantería 1 Repisa C-G",
         "id": 69
     },
     {
@@ -766,7 +766,7 @@
         "Año": "2005",
         "Editorial": "AMAURA.",
         "LCC": "G 143 R43 2005",
-        "Ubicacion": "(11.2, 3)",
+        "Ubicacion": "(11.2, 3) Estantería 1 Repisa C-G",
         "id": 70
     },
     {
@@ -777,7 +777,7 @@
         "Año": "2005",
         "Editorial": "AMAURA.",
         "LCC": "G 143 R43 2005",
-        "Ubicacion": "(11.3, 3)",
+        "Ubicacion": "(11.3, 3) Estantería 1 Repisa C-G",
         "id": 71
     },
     {
@@ -788,7 +788,7 @@
         "Año": "2005",
         "Editorial": "AMAURA.",
         "LCC": "G 143 R43 2005",
-        "Ubicacion": "(11.5, 3)",
+        "Ubicacion": "(11.5, 3) Estantería 1 Repisa C-G",
         "id": 72
     },
     {
@@ -799,7 +799,7 @@
         "Año": "2014",
         "Editorial": "Actar Publishers and IE University.",
         "LCC": "G 155 A1 U53 2014",
-        "Ubicacion": "(11.8, 3)",
+        "Ubicacion": "(11.8, 3) Estantería 1 Repisa C-G",
         "id": 73
     },
     {
@@ -810,7 +810,7 @@
         "Año": "1992",
         "Editorial": "Rand McNally.",
         "LCC": "G 1374 H8 R28",
-        "Ubicacion": "(12, 3)",
+        "Ubicacion": "(12, 3) Estantería 1 Repisa C-G",
         "id": 74
     },
     {
@@ -821,7 +821,7 @@
         "Año": "1991",
         "Editorial": "Mitock Publishers, Inc.",
         "LCC": "G 1529 L8 G6",
-        "Ubicacion": "(12.2, 3)",
+        "Ubicacion": "(12.2, 3) Estantería 1 Repisa C-G",
         "id": 75
     },
     {
@@ -832,7 +832,7 @@
         "Año": "1998",
         "Editorial": "GUIA ROJI, S.A. de C.V.",
         "LCC": "G 1549 M6 G3 1999",
-        "Ubicacion": "(12.4, 3)",
+        "Ubicacion": "(12.4, 3) Estantería 1 Repisa C-G",
         "id": 76
     },
     {
@@ -843,7 +843,7 @@
         "Año": "2000",
         "Editorial": "GUIA ROJI, S.A. de C.V.",
         "LCC": "G 1549 M6 G3 2000",
-        "Ubicacion": "(12.5, 3)",
+        "Ubicacion": "(12.5, 3) Estantería 1 Repisa C-G",
         "id": 77
     },
     {
@@ -854,7 +854,7 @@
         "Año": "1982",
         "Editorial": "Trillas.",
         "LCC": "G 155.41 C37",
-        "Ubicacion": "(12.8, 3)",
+        "Ubicacion": "(12.8, 3) Estantería 1 Repisa C-G",
         "id": 78
     },
     {
@@ -865,7 +865,7 @@
         "Año": "2000",
         "Editorial": "MOON HANDBOOKS.",
         "LCC": "G 4253 P58 2000",
-        "Ubicacion": "(13, 3)",
+        "Ubicacion": "(13, 3) Estantería 1 Repisa C-G",
         "id": 79
     },
     {
@@ -876,7 +876,7 @@
         "Año": "2012",
         "Editorial": "Trillas.",
         "LCC": "GE 170 Q33 2012",
-        "Ubicacion": "(13.5, 3)",
+        "Ubicacion": "(13.5, 3) Estantería 1 Repisa C-G",
         "id": 80
     },
     {
@@ -887,7 +887,7 @@
         "Año": "1995",
         "Editorial": "Grupo Editorial Iberoamérica.",
         "LCC": "GF 26 R4",
-        "Ubicacion": "(0.5, 2)",
+        "Ubicacion": "(0.5, 2) Estantería 1 Repisa G-H",
         "id": 81
     },
     {
@@ -898,7 +898,7 @@
         "Año": "2012",
         "Editorial": "Trillas.",
         "LCC": "GF 50 Q83 2012",
-        "Ubicacion": "(0.5, 2)",
+        "Ubicacion": "(0.5, 2) Estantería 1 Repisa G-H",
         "id": 82
     },
     {
@@ -909,7 +909,7 @@
         "Año": "2001",
         "Editorial": "trillas.",
         "LCC": "GF 85 B36 2001",
-        "Ubicacion": "(0.5, 2)",
+        "Ubicacion": "(0.5, 2) Estantería 1 Repisa G-H",
         "id": 83
     },
     {
@@ -920,7 +920,7 @@
         "Año": "1982",
         "Editorial": "The Penguin.",
         "LCC": "GR 931 C4413",
-        "Ubicacion": "(1, 2)",
+        "Ubicacion": "(1, 2) Estantería 1 Repisa G-H",
         "id": 84
     },
     {
@@ -931,7 +931,7 @@
         "Año": "1980",
         "Editorial": "McGraw-Hill,Inc.",
         "LCC": "GV 53 G635",
-        "Ubicacion": "(2.5, 2)",
+        "Ubicacion": "(2.5, 2) Estantería 1 Repisa G-H",
         "id": 85
     },
     {
@@ -942,7 +942,7 @@
         "Año": "1995",
         "Editorial": "DIANA, S.A. de C.V.",
         "LCC": "GV 155 B67",
-        "Ubicacion": "(2.7, 2)",
+        "Ubicacion": "(2.7, 2) Estantería 1 Repisa G-H",
         "id": 86
     },
     {
@@ -953,7 +953,7 @@
         "Año": "1977",
         "Editorial": "CBI Publishing Company, Inc.",
         "LCC": "GV 182.3 B38",
-        "Ubicacion": "(2.9, 2)",
+        "Ubicacion": "(2.9, 2) Estantería 1 Repisa G-H",
         "id": 87
     },
     {
@@ -964,7 +964,7 @@
         "Año": "2005",
         "Editorial": "University Press of New England.",
         "LCC": "GV 425 S65 2005",
-        "Ubicacion": "(3, 2)",
+        "Ubicacion": "(3, 2) Estantería 1 Repisa G-H",
         "id": 88
     },
     {
@@ -975,7 +975,7 @@
         "Año": "1993",
         "Editorial": "Villard Boooks New York, Inc.",
         "LCC": "GV 508 B78",
-        "Ubicacion": "(4.5, 2)",
+        "Ubicacion": "(4.5, 2) Estantería 1 Repisa G-H",
         "id": 89
     },
     {
@@ -986,7 +986,7 @@
         "Año": "1976",
         "Editorial": "Baseball Magazine, Sha Ltd., Tokyo.",
         "LCC": "GV 546 O8",
-        "Ubicacion": "(4.6, 2)",
+        "Ubicacion": "(4.6, 2) Estantería 1 Repisa G-H",
         "id": 90
     },
     {
@@ -997,7 +997,7 @@
         "Año": "2002",
         "Editorial": "alamah.",
         "LCC": "GV 884 J67 W55",
-        "Ubicacion": "(4.9, 2)",
+        "Ubicacion": "(4.9, 2) Estantería 1 Repisa G-H",
         "id": 91
     },
     {
@@ -1008,7 +1008,7 @@
         "Año": "1985",
         "Editorial": "A.S. Barnes and Company.",
         "LCC": "GV 965 H59 1985",
-        "Ubicacion": "(5, 2)",
+        "Ubicacion": "(5, 2) Estantería 1 Repisa G-H",
         "id": 92
     },
     {
@@ -1019,7 +1019,7 @@
         "Año": "2008",
         "Editorial": "John Wiley & Sons, Inc., Hoboken, New Jersy.",
         "LCC": "GV 979 D74 F57 2008",
-        "Ubicacion": "(5.2, 2)",
+        "Ubicacion": "(5.2, 2) Estantería 1 Repisa G-H",
         "id": 93
     },
     {
@@ -1030,7 +1030,7 @@
         "Año": "2005",
         "Editorial": "ST. Martin´s Press, New York.",
         "LCC": "GV 979 S9 A454 2005",
-        "Ubicacion": "(5.5, 2)",
+        "Ubicacion": "(5.5, 2) Estantería 1 Repisa G-H",
         "id": 94
     },
     {
@@ -1041,7 +1041,7 @@
         "Año": "1967",
         "Editorial": "HERRERO HERMANOS, SUCS., S.A. MEXICO",
         "LCC": "HA 29 S42",
-        "Ubicacion": "(6.5, 2)",
+        "Ubicacion": "(6.5, 2) Estantería 1 Repisa G-H",
         "id": 95
     },
     {
@@ -1052,7 +1052,7 @@
         "Año": "1978",
         "Editorial": "DUXBURY PRESS.",
         "LCC": "HA 29 M533",
-        "Ubicacion": "(7, 2)",
+        "Ubicacion": "(7, 2) Estantería 1 Repisa G-H",
         "id": 96
     },
     {
@@ -1063,7 +1063,7 @@
         "Año": "1978",
         "Editorial": "DUXBURY PRESS.",
         "LCC": "HA 29.1 M533",
-        "Ubicacion": "(7.5 ,2)",
+        "Ubicacion": "(7.5 ,2) Estantería 1 Repisa G-H",
         "id": 97
     },
     {
@@ -1074,7 +1074,7 @@
         "Año": "1993",
         "Editorial": "Lasser Press Mexicana, s.a. de c.v. México, D.F.",
         "LCC": "HB 501 D39918",
-        "Ubicacion": "(8, 2)",
+        "Ubicacion": "(8, 2) Estantería 1 Repisa G-H",
         "id": 98
     },
     {
@@ -1085,7 +1085,7 @@
         "Año": "1998",
         "Editorial": "SITESA.",
         "LCC": "HB 601 G69",
-        "Ubicacion": "(8.2, 2)",
+        "Ubicacion": "(8.2, 2) Estantería 1 Repisa G-H",
         "id": 99
     },
     {
@@ -1096,7 +1096,7 @@
         "Año": "1991",
         "Editorial": "Selector.",
         "LCC": "HB 601 K46 v.1",
-        "Ubicacion": "(8.5, 2)",
+        "Ubicacion": "(8.5, 2) Estantería 1 Repisa G-H",
         "id": 100
     },
     {
@@ -1107,7 +1107,7 @@
         "Año": "1991",
         "Editorial": "Selector.",
         "LCC": "HB 601 K46 v.2",
-        "Ubicacion": "(8.5, 2)",
+        "Ubicacion": "(8.5, 2) Estantería 1 Repisa G-H",
         "id": 101
     },
     {
@@ -1118,7 +1118,7 @@
         "Año": "1989",
         "Editorial": "Fuente del Delfín.",
         "LCC": "HC 79 K37",
-        "Ubicacion": "(8.7, 2)",
+        "Ubicacion": "(8.7, 2) Estantería 1 Repisa G-H",
         "id": 102
     },
     {
@@ -1129,7 +1129,7 @@
         "Año": "2010",
         "Editorial": "Rodale.",
         "LCC": "HC 110 C3 H85 2010",
-        "Ubicacion": "(9, 2)",
+        "Ubicacion": "(9, 2) Estantería 1 Repisa G-H",
         "id": 103
     },
     {
@@ -1140,7 +1140,7 @@
         "Año": "1967",
         "Editorial": "Doubleday/Natural History Press.",
         "LCC": "HC 110 E5 M33",
-        "Ubicacion": "(9.3, 2)",
+        "Ubicacion": "(9.3, 2) Estantería 1 Repisa G-H",
         "id": 104
     },
     {
@@ -1151,7 +1151,7 @@
         "Año": "1978",
         "Editorial": "Mc Graw Hill.",
         "LCC": "HC 110 E5 M37",
-        "Ubicacion": "(9.5, 2)",
+        "Ubicacion": "(9.5, 2) Estantería 1 Repisa G-H",
         "id": 105
     },
     {
@@ -1162,7 +1162,7 @@
         "Año": "2008",
         "Editorial": "Newmarket Press.",
         "LCC": "HC 1025 W95 W95 2008",
-        "Ubicacion": "(10.5, 2)",
+        "Ubicacion": "(10.5, 2) Estantería 1 Repisa G-H",
         "id": 106
     },
     {
@@ -1173,7 +1173,7 @@
         "Año": "1999",
         "Editorial": "McGraw-Hill.",
         "LCC": "HD 30 M369",
-        "Ubicacion": "(10.6, 2)",
+        "Ubicacion": "(10.6, 2) Estantería 1 Repisa G-H",
         "id": 107
     },
     {
@@ -1184,7 +1184,7 @@
         "Año": "2005",
         "Editorial": "Dearbon.",
         "LCC": "HD 30.28 P5 2005",
-        "Ubicacion": "(11.5, 2)",
+        "Ubicacion": "(11.5, 2) Estantería 1 Repisa G-H",
         "id": 108
     },
     {
@@ -1195,7 +1195,7 @@
         "Año": "2005",
         "Editorial": "Wiley Publishing, Inc.",
         "LCC": "HD 30.28 T575 2005",
-        "Ubicacion": "(12, 2)",
+        "Ubicacion": "(12, 2) Estantería 1 Repisa G-H",
         "id": 109
     },
     {
@@ -1206,7 +1206,7 @@
         "Año": "2000",
         "Editorial": "McGraw-Hill.",
         "LCC": "HD 30.37 B74",
-        "Ubicacion": "(12.5, 2)",
+        "Ubicacion": "(12.5, 2) Estantería 1 Repisa G-H",
         "id": 110
     },
     {
@@ -1217,7 +1217,7 @@
         "Año": "2000",
         "Editorial": "Jossey-Bass San Francisco.",
         "LCC": "HD 30.37 P68",
-        "Ubicacion": "(13, 2)",
+        "Ubicacion": "(13, 2) Estantería 1 Repisa G-H",
         "id": 111
     },
     {
@@ -1228,7 +1228,7 @@
         "Año": "2001",
         "Editorial": "Pax México.",
         "LCC": "HD 30.37 T77",
-        "Ubicacion": "(13.2, 2)",
+        "Ubicacion": "(13.2, 2) Estantería 1 Repisa G-H",
         "id": 112
     },
     {
@@ -1239,7 +1239,7 @@
         "Año": "1997",
         "Editorial": "Harvard Business School Press Boston, Massachusetts.",
         "LCC": "HD 30.213 K43",
-        "Ubicacion": "(13.5, 2)",
+        "Ubicacion": "(13.5, 2) Estantería 1 Repisa G-H",
         "id": 113
     },
     {
@@ -1250,7 +1250,7 @@
         "Año": "1981",
         "Editorial": "Berkley Books, New York.",
         "LCC": "HD 31 B527",
-        "Ubicacion": "(13.8, 2)",
+        "Ubicacion": "(13.8, 2) Estantería 1 Repisa G-H",
         "id": 114
     },
     {
@@ -1261,7 +1261,7 @@
         "Año": "1984",
         "Editorial": "Berkley Books, New York.",
         "LCC": "HD 31 B528",
-        "Ubicacion": "(14, 2)",
+        "Ubicacion": "(14, 2) Estantería 1 Repisa G-H",
         "id": 115
     },
     {
@@ -1272,7 +1272,7 @@
         "Año": "1997",
         "Editorial": "FIRESIDE.",
         "LCC": "HD 31 S5984",
-        "Ubicacion": "(14.5, 2)",
+        "Ubicacion": "(14.5, 2) Estantería 1 Repisa G-H",
         "id": 116
     },
     {
@@ -1283,7 +1283,7 @@
         "Año": "1992",
         "Editorial": "Vergara.",
         "LCC": "HD 31 U57",
-        "Ubicacion": "(14.5, 2)",
+        "Ubicacion": "(14.5, 2) Estantería 1 Repisa G-H",
         "id": 117
     },
     {
@@ -1294,7 +1294,7 @@
         "Año": "1984",
         "Editorial": "Limusa.",
         "LCC": "HD 31 S5",
-        "Ubicacion": "(14.5, 2)",
+        "Ubicacion": "(14.5, 2) Estantería 1 Repisa G-H",
         "id": 118
     },
     {
@@ -1305,7 +1305,7 @@
         "Año": "1987",
         "Editorial": "Ediciones Díaz de Santos, S.A.",
         "LCC": "HD 31 V65",
-        "Ubicacion": "(0.5, 1)",
+        "Ubicacion": "(0.5, 1) Estantería 1 Repisa H",
         "id": 119
     },
     {
@@ -1316,7 +1316,7 @@
         "Año": "1990",
         "Editorial": "LEGIS.",
         "LCC": "HD 31 V353",
-        "Ubicacion": "(0.5, 1)",
+        "Ubicacion": "(0.5, 1) Estantería 1 Repisa H",
         "id": 120
     },
     {
@@ -1327,7 +1327,7 @@
         "Año": "1986",
         "Editorial": "Universidad Autonoma de Guadalajara.",
         "LCC": "HD 35 R35",
-        "Ubicacion": "(0.5, 1)",
+        "Ubicacion": "(0.5, 1) Estantería 1 Repisa H",
         "id": 121
     },
     {
@@ -1338,7 +1338,7 @@
         "Año": "1993",
         "Editorial": "Universidad de Guadalajara.",
         "LCC": "HD 37.566 V55",
-        "Ubicacion": "(1.5, 1)",
+        "Ubicacion": "(1.5, 1) Estantería 1 Repisa H",
         "id": 122
     },
     {
@@ -1349,7 +1349,7 @@
         "Año": "1990",
         "Editorial": "norma.",
         "LCC": "HD 38 D439 W3518",
-        "Ubicacion": "(1.5, 1)",
+        "Ubicacion": "(1.5, 1) Estantería 1 Repisa H",
         "id": 123
     },
     {
@@ -1360,7 +1360,7 @@
         "Año": "1999",
         "Editorial": "Javier Vergara Editor.",
         "LCC": "HD 38 G64",
-        "Ubicacion": "(2, 1)",
+        "Ubicacion": "(2, 1) Estantería 1 Repisa H",
         "id": 124
     },
     {
@@ -1371,7 +1371,7 @@
         "Año": "1994",
         "Editorial": "Instituto Mexicano de Contadores Publicos, A.C.",
         "LCC": "HD 38 G85",
-        "Ubicacion": "(2.2, 1)",
+        "Ubicacion": "(2.2, 1) Estantería 1 Repisa H",
         "id": 125
     },
     {
@@ -1382,7 +1382,7 @@
         "Año": "1987",
         "Editorial": "Editorial Grad, S.A. de C.V.",
         "LCC": "HD 38.2 R65",
-        "Ubicacion": "(2.8, 1)",
+        "Ubicacion": "(2.8, 1) Estantería 1 Repisa H",
         "id": 126
     },
     {
@@ -1393,7 +1393,7 @@
         "Año": "1990",
         "Editorial": "marcombo BOIXAREU EDITORES.",
         "LCC": "HD 38.5 A73",
-        "Ubicacion": "(3, 1)",
+        "Ubicacion": "(3, 1) Estantería 1 Repisa H",
         "id": 127
     },
     {
@@ -1404,7 +1404,7 @@
         "Año": "1990",
         "Editorial": "Serie Empresarial.",
         "LCC": "HD 38.7 F8518",
-        "Ubicacion": "(3, 1)",
+        "Ubicacion": "(3, 1) Estantería 1 Repisa H",
         "id": 128
     },
     {
@@ -1415,7 +1415,7 @@
         "Año": "1994",
         "Editorial": "Addison-Wesley Iberoamericana.",
         "LCC": "HD 39 C67",
-        "Ubicacion": "(3.2, 1)",
+        "Ubicacion": "(3.2, 1) Estantería 1 Repisa H",
         "id": 129
     },
     {
@@ -1426,7 +1426,7 @@
         "Año": "1992",
         "Editorial": "CECSA.",
         "LCC": "HD 39.5 L43",
-        "Ubicacion": "(3.5, 1)",
+        "Ubicacion": "(3.5, 1) Estantería 1 Repisa H",
         "id": 130
     },
     {
@@ -1437,7 +1437,7 @@
         "Año": "1999",
         "Editorial": "Berrett-Koehler Publishers, Inc. San Francisco.",
         "LCC": "HD 50.5 B548",
-        "Ubicacion": "(4, 1)",
+        "Ubicacion": "(4, 1) Estantería 1 Repisa H",
         "id": 131
     },
     {
@@ -1448,7 +1448,7 @@
         "Año": "1997",
         "Editorial": "Jossey-Bass Publishers.",
         "LCC": "HD 50.5 G68",
-        "Ubicacion": "(4.2, 1)",
+        "Ubicacion": "(4.2, 1) Estantería 1 Repisa H",
         "id": 132
     },
     {
@@ -1459,7 +1459,7 @@
         "Año": "2001",
         "Editorial": "AGATA.",
         "LCC": "HD 53 C5",
-        "Ubicacion": "(4.5, 1)",
+        "Ubicacion": "(4.5, 1) Estantería 1 Repisa H",
         "id": 133
     },
     {
@@ -1470,7 +1470,7 @@
         "Año": "1995",
         "Editorial": "Atlantida.",
         "LCC": "HD 57.7 D48",
-        "Ubicacion": "(5, 1)",
+        "Ubicacion": "(5, 1) Estantería 1 Repisa H",
         "id": 134
     },
     {
@@ -1481,7 +1481,7 @@
         "Año": "2000",
         "Editorial": "inti publishing.",
         "LCC": "HD 57.7 H396",
-        "Ubicacion": "(5.2, 1)",
+        "Ubicacion": "(5.2, 1) Estantería 1 Repisa H",
         "id": 135
     },
     {
@@ -1492,7 +1492,7 @@
         "Año": "1994",
         "Editorial": "Panorama Editorial.",
         "LCC": "HD 57.7 W3518",
-        "Ubicacion": "(6, 1)",
+        "Ubicacion": "(6, 1) Estantería 1 Repisa H",
         "id": 136
     },
     {
@@ -1503,7 +1503,7 @@
         "Año": "1992",
         "Editorial": "Ediciones Deusto S.A.",
         "LCC": "HD 58.7 G85",
-        "Ubicacion": "(6, 1)",
+        "Ubicacion": "(6, 1) Estantería 1 Repisa H",
         "id": 137
     },
     {
@@ -1514,7 +1514,7 @@
         "Año": "2014",
         "Editorial": "Maple Creek Media.",
         "LCC": "HD 58.8 D88 2014",
-        "Ubicacion": "(6.2, 1)",
+        "Ubicacion": "(6.2, 1) Estantería 1 Repisa H",
         "id": 138
     },
     {
@@ -1525,7 +1525,7 @@
         "Año": "1994",
         "Editorial": "norma.",
         "LCC": "HD 58.8 H356",
-        "Ubicacion": "(6.5, 1)",
+        "Ubicacion": "(6.5, 1) Estantería 1 Repisa H",
         "id": 139
     },
     {
@@ -1536,7 +1536,7 @@
         "Año": "1998",
         "Editorial": "grijalbo.",
         "LCC": "HD 58.8 H4465",
-        "Ubicacion": "(6.8, 1)",
+        "Ubicacion": "(6.8, 1) Estantería 1 Repisa H",
         "id": 140
     },
     {
@@ -1547,7 +1547,7 @@
         "Año": "1992",
         "Editorial": "Atlantida / Promexa.",
         "LCC": "HD 58.8 P478",
-        "Ubicacion": "(7, 1)",
+        "Ubicacion": "(7, 1) Estantería 1 Repisa H",
         "id": 141
     },
     {
@@ -1558,7 +1558,7 @@
         "Año": "1994",
         "Editorial": "trillas.",
         "LCC": "HD 59 R5",
-        "Ubicacion": "(7.5, 1)",
+        "Ubicacion": "(7.5, 1) Estantería 1 Repisa H",
         "id": 142
     },
     {
@@ -1569,7 +1569,7 @@
         "Año": "1991",
         "Editorial": "Serie Empresarial.",
         "LCC": "HD 59.2 G3718",
-        "Ubicacion": "(8.2, 1)",
+        "Ubicacion": "(8.2, 1) Estantería 1 Repisa H",
         "id": 143
     },
     {
@@ -1580,7 +1580,7 @@
         "Año": "1991",
         "Editorial": "Celeste Ediciones.",
         "LCC": "HD 59.2 O5518",
-        "Ubicacion": "(8.5, 1)",
+        "Ubicacion": "(8.5, 1) Estantería 1 Repisa H",
         "id": 144
     },
     {
@@ -1591,7 +1591,7 @@
         "Año": "1994",
         "Editorial": "Ediciones Poder.",
         "LCC": "HD 62.2 C32",
-        "Ubicacion": "(8.7, 1)",
+        "Ubicacion": "(8.7, 1) Estantería 1 Repisa H",
         "id": 145
     },
     {
@@ -1602,7 +1602,7 @@
         "Año": "1998",
         "Editorial": "The Free Press.",
         "LCC": "HD 62.4 R67",
-        "Ubicacion": "(9, 1)",
+        "Ubicacion": "(9, 1) Estantería 1 Repisa H",
         "id": 146
     },
     {
@@ -1613,7 +1613,7 @@
         "Año": "1994",
         "Editorial": "Diaz de Santos, S. A.",
         "LCC": "HD 62.7 M2",
-        "Ubicacion": "(10, 1)",
+        "Ubicacion": "(10, 1) Estantería 1 Repisa H",
         "id": 147
     },
     {
@@ -1624,7 +1624,7 @@
         "Año": "1992",
         "Editorial": "McGraw-Hill.",
         "LCC": "HD 62.47 B3318",
-        "Ubicacion": "(10.5, 1)",
+        "Ubicacion": "(10.5, 1) Estantería 1 Repisa H",
         "id": 148
     },
     {
@@ -1635,7 +1635,7 @@
         "Año": "1998",
         "Editorial": "grijalbo.",
         "LCC": "HD 66 H4518",
-        "Ubicacion": "(11.2,1)",
+        "Ubicacion": "(11.2,1) Estantería 1 Repisa H",
         "id": 149
     },
     {
@@ -1646,7 +1646,7 @@
         "Año": "2000",
         "Editorial": "GRANICA.",
         "LCC": "HD 66 W68",
-        "Ubicacion": "(11.5, 1)",
+        "Ubicacion": "(11.5, 1) Estantería 1 Repisa H",
         "id": 150
     },
     {
@@ -1657,7 +1657,7 @@
         "Año": "1997",
         "Editorial": "John Wiley & Sons, Inc.",
         "LCC": "HD 66.2 L56",
-        "Ubicacion": "(11.6, 1)",
+        "Ubicacion": "(11.6, 1) Estantería 1 Repisa H",
         "id": 151
     },
     {
@@ -1668,7 +1668,7 @@
         "Año": "1994",
         "Editorial": "Diaz de Santos, S.A.",
         "LCC": "HD 69 B7 A22",
-        "Ubicacion": "(12, 1)",
+        "Ubicacion": "(12, 1) Estantería 1 Repisa H",
         "id": 152
     },
     {
@@ -1679,7 +1679,7 @@
         "Año": "1989",
         "Editorial": "Prima Publishing & Communications.",
         "LCC": "HD 69 C6 B47",
-        "Ubicacion": "(12.5, 1)",
+        "Ubicacion": "(12.5, 1) Estantería 1 Repisa H",
         "id": 153
     },
     {
@@ -1690,7 +1690,7 @@
         "Año": "1998",
         "Editorial": "Prentice Hall.",
         "LCC": "HD 69 C6 F73",
-        "Ubicacion": "(12.6, 1)",
+        "Ubicacion": "(12.6, 1) Estantería 1 Repisa H",
         "id": 154
     },
     {
@@ -1701,7 +1701,7 @@
         "Año": "1999",
         "Editorial": "McGraw-Hill.",
         "LCC": "HD 69 C6 R38",
-        "Ubicacion": "(13, 1)",
+        "Ubicacion": "(13, 1) Estantería 1 Repisa H",
         "id": 155
     },
     {
@@ -1712,7 +1712,7 @@
         "Año": "1994",
         "Editorial": "GRANICA.",
         "LCC": "HD 69 F73",
-        "Ubicacion": "(13.5, 1)",
+        "Ubicacion": "(13.5, 1) Estantería 1 Repisa H",
         "id": 156
     },
     {
@@ -1723,7 +1723,7 @@
         "Año": "2021",
         "Editorial": "Project Management Institute, Inc",
         "LCC": "HD 69 P75 2021",
-        "Ubicacion": "(13.7, 1)",
+        "Ubicacion": "(13.7, 1) Estantería 1 Repisa H",
         "id": 157
     },
     {
@@ -1734,7 +1734,7 @@
         "Año": "1996",
         "Editorial": "Project Management Institute.",
         "LCC": "HD 69 P75 G845",
-        "Ubicacion": "(14.5, 1)",
+        "Ubicacion": "(14.5, 1) Estantería 1 Repisa H",
         "id": 158
     },
     {
@@ -1745,7 +1745,7 @@
         "Año": "1997",
         "Editorial": "Marcel Dekker, Inc.",
         "LCC": "HD 69 P75 K593 1997",
-        "Ubicacion": "(14.5, 1)",
+        "Ubicacion": "(14.5, 1) Estantería 1 Repisa H",
         "id": 159
     },
     {
@@ -1756,7 +1756,7 @@
         "Año": "1998",
         "Editorial": "AMACOM.",
         "LCC": "HD 69 P75 K594",
-        "Ubicacion": "(0.5, 0)",
+        "Ubicacion": "(0.5, 0) Estantería 1 Repisa H",
         "id": 160
     },
     {
@@ -1767,7 +1767,7 @@
         "Año": "1993",
         "Editorial": "McGraw-Hill-",
         "LCC": "HD 69 P75 R3518",
-        "Ubicacion": "(1.2, 0)",
+        "Ubicacion": "(1.2, 0) Estantería 1 Repisa H",
         "id": 161
     },
     {
@@ -1778,7 +1778,7 @@
         "Año": "No encontrado.",
         "Editorial": "Editora Técnica, S.A.",
         "LCC": "HD 69 T54 M33",
-        "Ubicacion": "(1.5, 0)",
+        "Ubicacion": "(1.5, 0) Estantería 1 Repisa H",
         "id": 162
     },
     {
@@ -1789,7 +1789,7 @@
         "Año": "1996",
         "Editorial": "McGraw-Hill",
         "LCC": "HD 69.2 H44 Ej. 1",
-        "Ubicacion": "(2.2, 0)",
+        "Ubicacion": "(2.2, 0) Estantería 1 Repisa H",
         "id": 163
     },
     {
@@ -1800,7 +1800,7 @@
         "Año": "1996",
         "Editorial": "McGraw-Hill",
         "LCC": "HD 69.2 H44 Ej. 2",
-        "Ubicacion": "(2.2, 0)",
+        "Ubicacion": "(2.2, 0) Estantería 1 Repisa H",
         "id": 164
     },
     {
@@ -1811,7 +1811,7 @@
         "Año": "1996",
         "Editorial": "McGraw-Hill.",
         "LCC": "HD 69.2 H44 Ej. 3",
-        "Ubicacion": "(2.5, 0)",
+        "Ubicacion": "(2.5, 0) Estantería 1 Repisa H",
         "id": 165
     },
     {
@@ -1822,7 +1822,7 @@
         "Año": "1995",
         "Editorial": "Editorial Posada.",
         "LCC": "HD 88 M29",
-        "Ubicacion": "(3.5, 0)",
+        "Ubicacion": "(3.5, 0) Estantería 1 Repisa H",
         "id": 166
     },
     {
@@ -1833,7 +1833,7 @@
         "Año": "1976",
         "Editorial": "Dowden, Hutchinson & Ross, Inc.",
         "LCC": "HD 257 P76",
-        "Ubicacion": "(3.7, 0)",
+        "Ubicacion": "(3.7, 0) Estantería 1 Repisa H",
         "id": 167
     },
     {
@@ -1844,7 +1844,7 @@
         "Año": "1978",
         "Editorial": "ULI-the Urban Land Institute, Washington, D.C.",
         "LCC": "HD 259 U7",
-        "Ubicacion": "(4, 0)",
+        "Ubicacion": "(4, 0) Estantería 1 Repisa H",
         "id": 168
     },
     {
@@ -1855,7 +1855,7 @@
         "Año": "2010",
         "Editorial": "Universidad Autonoma de México Facultad de Química.",
         "LCC": "HD 756 2010",
-        "Ubicacion": "(4.3, 0)",
+        "Ubicacion": "(4.3, 0) Estantería 1 Repisa H",
         "id": 169
     },
     {
@@ -1866,7 +1866,7 @@
         "Año": "1981",
         "Editorial": "Richard D. Irwin, Inc.",
         "LCC": "HD 1375 B84",
-        "Ubicacion": "(4.5, 0)",
+        "Ubicacion": "(4.5, 0) Estantería 1 Repisa H",
         "id": 170
     },
     {
@@ -1877,7 +1877,7 @@
         "Año": "2001",
         "Editorial": "McGraw-Hill",
         "LCC": "HD 1382.5 I689",
-        "Ubicacion": "(5, 0)",
+        "Ubicacion": "(5, 0) Estantería 1 Repisa H",
         "id": 171
     },
     {
@@ -1888,7 +1888,7 @@
         "Año": "2005",
         "Editorial": "Real Estate.",
         "LCC": "HD 1382.5 R47 2005",
-        "Ubicacion": "(5.5, 0)",
+        "Ubicacion": "(5.5, 0) Estantería 1 Repisa H",
         "id": 172
     },
     {
@@ -1899,7 +1899,7 @@
         "Año": "1992",
         "Editorial": "Ediciones Fiscales ISEF, S.A.",
         "LCC": "HD 1384 H35",
-        "Ubicacion": "(6, 0)",
+        "Ubicacion": "(6, 0) Estantería 1 Repisa H",
         "id": 173
     },
     {
@@ -1910,7 +1910,7 @@
         "Año": "1993",
         "Editorial": "Instituto Mexicano de Contadores Publicos, A.C.",
         "LCC": "HD 1384 L46",
-        "Ubicacion": "(6, 0)",
+        "Ubicacion": "(6, 0) Estantería 1 Repisa H",
         "id": 174
     },
     {
@@ -1921,7 +1921,7 @@
         "Año": "1979",
         "Editorial": "McGraw-Hill.",
         "LCC": "HD 1387 R3",
-        "Ubicacion": "(6.2, 0)",
+        "Ubicacion": "(6.2, 0) Estantería 1 Repisa H",
         "id": 175
     },
     {
@@ -1932,7 +1932,7 @@
         "Año": "1974",
         "Editorial": "University of Georgia Press.",
         "LCC": "HD 1387 W46",
-        "Ubicacion": "(7, 0)",
+        "Ubicacion": "(7, 0) Estantería 1 Repisa H",
         "id": 176
     },
     {
@@ -1943,7 +1943,7 @@
         "Año": "1991",
         "Editorial": "trillas.",
         "LCC": "HD 1394 M6",
-        "Ubicacion": "(7.2, 0)",
+        "Ubicacion": "(7.2, 0) Estantería 1 Repisa H",
         "id": 177
     },
     {
@@ -1954,7 +1954,7 @@
         "Año": "1999",
         "Editorial": "Compatec.",
         "LCC": "HD 2333 P33 Ej.1",
-        "Ubicacion": "(7.5, 0)",
+        "Ubicacion": "(7.5, 0)  Estantería 1 Repisa H",
         "id": 178
     },
     {
@@ -1965,7 +1965,7 @@
         "Año": "1999",
         "Editorial": "Compatec.",
         "LCC": "HD 2333 P33 Ej.2",
-        "Ubicacion": "(7.5, 0)",
+        "Ubicacion": "(7.5, 0) Estantería 1 Repisa H",
         "id": 179
     },
     {
@@ -1976,7 +1976,7 @@
         "Año": "1990",
         "Editorial": "Home Builder Press.",
         "LCC": "HD 1395 L36",
-        "Ubicacion": "(7.7, 0)",
+        "Ubicacion": "(7.7, 0) Estantería 1 Repisa H",
         "id": 180
     },
     {
@@ -1987,7 +1987,7 @@
         "Año": "1994",
         "Editorial": "McGraw-Hill",
         "LCC": "HD 2755 G65",
-        "Ubicacion": "(8, 0)",
+        "Ubicacion": "(8, 0) Estantería 1 Repisa H",
         "id": 181
     },
     {
@@ -1998,7 +1998,7 @@
         "Año": "1991",
         "Editorial": "ADDISON WESLEY.",
         "LCC": "HD 2755.5 D35",
-        "Ubicacion": "(8.5, 0)",
+        "Ubicacion": "(8.5, 0) Estantería 1 Repisa H",
         "id": 182
     },
     {
@@ -2009,7 +2009,7 @@
         "Año": "1993",
         "Editorial": "LIMUSA.",
         "LCC": "HD 2755.5 H48",
-        "Ubicacion": "(9, 0)",
+        "Ubicacion": "(9, 0) Estantería 1 Repisa H",
         "id": 183
     },
     {
@@ -2020,7 +2020,7 @@
         "Año": "1990",
         "Editorial": "Harper Perennial.",
         "LCC": "HD 2796 R57 B87",
-        "Ubicacion": "(9.5, 0)",
+        "Ubicacion": "(9.5, 0) Estantería 1 Repisa H",
         "id": 184
     },
     {
@@ -2031,7 +2031,7 @@
         "Año": "1998",
         "Editorial": "grijalbo.",
         "LCC": "HD 3023 H4465",
-        "Ubicacion": "(9.8, 0)",
+        "Ubicacion": "(9.8, 0) Estantería 1 Repisa H",
         "id": 185
     },
     {
@@ -2042,7 +2042,7 @@
         "Año": "1994",
         "Editorial": "CECSA.",
         "LCC": "HD 3611 P54",
-        "Ubicacion": "(10, 0)",
+        "Ubicacion": "(10, 0) Estantería 1 Repisa H",
         "id": 186
     },
     {
@@ -2053,7 +2053,7 @@
         "Año": "1987",
         "Editorial": "LIMUSA.",
         "LCC": "HD 5686 T73",
-        "Ubicacion": "(11, 0)",
+        "Ubicacion": "(11, 0) Estantería 1 Repisa H",
         "id": 187
     },
     {
@@ -2064,7 +2064,7 @@
         "Año": "2001",
         "Editorial": "Empresa Activa.",
         "LCC": "HD 6951 L502",
-        "Ubicacion": "(11.7, 0)",
+        "Ubicacion": "(11.7, 0) Estantería 1 Repisa H",
         "id": 188
     },
     {
@@ -2075,7 +2075,7 @@
         "Año": "1999",
         "Editorial": "Broadway.",
         "LCC": "HD 7125 O8",
-        "Ubicacion": "(12, 0)",
+        "Ubicacion": "(12, 0) Estantería 1 Repisa H",
         "id": 189
     },
     {
@@ -2086,7 +2086,7 @@
         "Año": "1977",
         "Editorial": "Pantheon books New York.",
         "LCC": "HD 7287.5 T86",
-        "Ubicacion": "(12.5, 0)",
+        "Ubicacion": "(12.5, 0) Estantería 1 Repisa H",
         "id": 190
     },
     {
@@ -2097,7 +2097,7 @@
         "Año": "1975",
         "Editorial": "John Wiley & Sons, Inc.",
         "LCC": "HD 7287.9 L38",
-        "Ubicacion": "(12.7, 0)",
+        "Ubicacion": "(12.7, 0) Estantería 1 Repisa H",
         "id": 191
     },
     {
@@ -2108,7 +2108,7 @@
         "Año": "1993",
         "Editorial": "Universidad Nacional Autonoma de México.",
         "LCC": "HD 7306 A3 M83",
-        "Ubicacion": "(13.2, 0)",
+        "Ubicacion": "(13.2, 0) Estantería 1 Repisa H",
         "id": 192
     },
     {
@@ -2119,7 +2119,7 @@
         "Año": "1993",
         "Editorial": "ESFINGE.",
         "LCC": "HD 7809 C54",
-        "Ubicacion": "(13.5, 0)",
+        "Ubicacion": "(13.5, 0) Estantería 1 Repisa H",
         "id": 193
     },
     {
@@ -2130,7 +2130,7 @@
         "Año": "1995",
         "Editorial": "SICCO.",
         "LCC": "HD 7809 S63",
-        "Ubicacion": "(13.7, 0)",
+        "Ubicacion": "(13.7, 0) Estantería 1 Repisa H",
         "id": 194
     },
     {
@@ -2141,7 +2141,7 @@
         "Año": "1993",
         "Editorial": "Editorial DVE de Vecchi",
         "LCC": "HD 8038 E2",
-        "Ubicacion": "(14, 0)",
+        "Ubicacion": "(14, 0) Estantería 1 Repisa H",
         "id": 195
     },
     {
@@ -2152,7 +2152,7 @@
         "Año": "1989",
         "Editorial": "Serie Empresarial.",
         "LCC": "HD 8038 A1 K67 Ej.1",
-        "Ubicacion": "(14.3, 0)",
+        "Ubicacion": "(14.3, 0) Estantería 1 Repisa H",
         "id": 196
     },
     {
@@ -2163,7 +2163,7 @@
         "Año": "1990",
         "Editorial": "Serie Empresarial.",
         "LCC": "HD 8038 A1 K67 Ej.2",
-        "Ubicacion": "(14.5, 0)",
+        "Ubicacion": "(14.5, 0) Estantería 1 Repisa H",
         "id": 197
     },
     {
@@ -2174,7 +2174,7 @@
         "Año": "1999",
         "Editorial": "AGATA.",
         "LCC": "HD 8038 S4",
-        "Ubicacion": "(15, 5)",
+        "Ubicacion": "(15, 5) Estantería 2 Repisa H",
         "id": 198
     },
     {
@@ -2185,7 +2185,7 @@
         "Año": "2003",
         "Editorial": "PEI",
         "LCC": "HD 9574 P45 2003",
-        "Ubicacion": "(15.3, 5)",
+        "Ubicacion": "(15.3, 5) Estantería 2 Repisa H",
         "id": 199
     },
     {
@@ -2196,7 +2196,7 @@
         "Año": "2004",
         "Editorial": "PEI",
         "LCC": "HD 9574 P45 2004",
-        "Ubicacion": "(15.5, 5)",
+        "Ubicacion": "(15.5, 5) Estantería 2 Repisa H",
         "id": 200
     },
     {
@@ -2207,7 +2207,7 @@
         "Año": "1994",
         "Editorial": "McGraw-Hill.",
         "LCC": "HD 9675 A72 M3518",
-        "Ubicacion": "(15.8, 5)",
+        "Ubicacion": "(15.8, 5) Estantería 2 Repisa H",
         "id": 201
     },
     {
@@ -2218,7 +2218,7 @@
         "Año": "1999",
         "Editorial": "McGraw-Hill.",
         "LCC": "HD 9697 A3 U5",
-        "Ubicacion": "(16, 5)",
+        "Ubicacion": "(16, 5) Estantería 2 Repisa H",
         "id": 202
     },
     {
@@ -2229,7 +2229,7 @@
         "Año": "2004",
         "Editorial": "LIMUSA",
         "LCC": "HD 9715.A2 593 2004",
-        "Ubicacion": "(16.3, 5)",
+        "Ubicacion": "(16.3, 5) Estantería 2 Repisa H",
         "id": 203
     },
     {
@@ -2240,7 +2240,7 @@
         "Año": "1991",
         "Editorial": "Home Builder Press.",
         "LCC": "HD 9715 A2 K54",
-        "Ubicacion": "(16.5, 5)",
+        "Ubicacion": "(16.5, 5) Estantería 2 Repisa H",
         "id": 204
     },
     {
@@ -2251,7 +2251,7 @@
         "Año": "2005",
         "Editorial": "trend.",
         "LCC": "HD 9715 T74 2005",
-        "Ubicacion": "(17, 5)",
+        "Ubicacion": "(17, 5) Estantería 2 Repisa H",
         "id": 205
     },
     {
@@ -2262,7 +2262,7 @@
         "Año": "2004",
         "Editorial": "iris.",
         "LCC": "HD 9715 I75 2004",
-        "Ubicacion": "(17, 5)",
+        "Ubicacion": "(17, 5) Estantería 2 Repisa H",
         "id": 206
     },
     {
@@ -2273,7 +2273,7 @@
         "Año": "2005",
         "Editorial": "iris.",
         "LCC": "HD 9715 I75 2005",
-        "Ubicacion": "(17.8, 5)",
+        "Ubicacion": "(17.8, 5) Estantería 2 Repisa H",
         "id": 207
     },
     {
@@ -2284,7 +2284,7 @@
         "Año": "2006",
         "Editorial": "iris.",
         "LCC": "HD 9715 I75 2006",
-        "Ubicacion": "(17.9, 5)",
+        "Ubicacion": "(17.9, 5) Estantería 2 Repisa H",
         "id": 208
     },
     {
@@ -2295,7 +2295,7 @@
         "Año": "2005",
         "Editorial": "Mosaicos Rivero, S.A.",
         "LCC": "HD 9715 M67 2005",
-        "Ubicacion": "(18, 5)",
+        "Ubicacion": "(18, 5) Estantería 2 Repisa H",
         "id": 209
     },
     {
@@ -2306,7 +2306,7 @@
         "Año": "2002",
         "Editorial": "iris.",
         "LCC": "HD 9716 I75 2002",
-        "Ubicacion": "(18, 5)",
+        "Ubicacion": "(18, 5) Estantería 2 Repisa H",
         "id": 210
     },
     {
@@ -2317,7 +2317,7 @@
         "Año": "2002",
         "Editorial": "iris.",
         "LCC": "HD 9716 I75 2005",
-        "Ubicacion": "(18.3, 5)",
+        "Ubicacion": "(18.3, 5) Estantería 2 Repisa H",
         "id": 211
     },
     {
@@ -2328,7 +2328,7 @@
         "Año": "2005",
         "Editorial": "iris.",
         "LCC": "HD 9716 I75 2005",
-        "Ubicacion": "(18.5, 5)",
+        "Ubicacion": "(18.5, 5) Estantería 2 Repisa H",
         "id": 212
     },
     {
@@ -2339,7 +2339,7 @@
         "Año": "1990",
         "Editorial": "norma.",
         "LCC": "HD  9999 S74 P7518",
-        "Ubicacion": "(18.8, 5)",
+        "Ubicacion": "(18.8, 5) Estantería 2 Repisa H",
         "id": 213
     },
     {
@@ -2350,7 +2350,7 @@
         "Año": "2006",
         "Editorial": "Chelsea Green Publishing Company.",
         "LCC": "HE 308 S56 2006",
-        "Ubicacion": "(19, 5)",
+        "Ubicacion": "(19, 5) Estantería 2 Repisa H",
         "id": 214
     },
     {
@@ -2361,7 +2361,7 @@
         "Año": "1978",
         "Editorial": "GG.",
         "LCC": "HE 331 O518",
-        "Ubicacion": "(19.5, 5)",
+        "Ubicacion": "(19.5, 5) Estantería 2 Repisa H",
         "id": 215
     },
     {
@@ -2372,7 +2372,7 @@
         "Año": "1979",
         "Editorial": "University of California, San Francisco.",
         "LCC": "HE 370 C51",
-        "Ubicacion": "(19.8, 5)",
+        "Ubicacion": "(19.8, 5) Estantería 2 Repisa H",
         "id": 216
     },
     {
@@ -2383,7 +2383,7 @@
         "Año": "2000",
         "Editorial": "Prentice Hall.",
         "LCC": "HE 7551 W43",
-        "Ubicacion": "(20, 5)",
+        "Ubicacion": "(20, 5) Estantería 2 Repisa H",
         "id": 217
     },
     {
@@ -2394,7 +2394,7 @@
         "Año": "1996",
         "Editorial": "McGraw-Hill.",
         "LCC": "HE 7572 G3818",
-        "Ubicacion": "(20.2, 5)",
+        "Ubicacion": "(20.2, 5) Estantería 2 Repisa H",
         "id": 218
     },
     {
@@ -2405,7 +2405,7 @@
         "Año": "1992",
         "Editorial": "ECASA",
         "LCC": "HF 1007 L7",
-        "Ubicacion": "(20.3, 5)",
+        "Ubicacion": "(20.3, 5) Estantería 2 Repisa H",
         "id": 219
     },
     {
@@ -2416,41 +2416,8 @@
         "Año": "1994",
         "Editorial": "WorldPost Services.",
         "LCC": "HF 1027 U8",
-        "Ubicacion": "(20.5, 5)",
+        "Ubicacion": "(20.5, 5) Estantería 2 Repisa H",
         "id": 220
-    },
-    {
-        "Titulo": "Differentiate or Die.",
-        "Autor": "Jack Trout.",
-        "ISBN": "0-471-35764-2",
-        "Materia": "Brand name products.",
-        "Año": "2000",
-        "Editorial": "John Wiley & Sons, Inc.",
-        "LCC": "HF 5415 T272 2000",
-        "Ubicacion": "(22, 4)",
-        "id": 221
-    },
-    {
-        "Titulo": "Las Personas: la clave para el éxito de su empresa.",
-        "Autor": "Heberto Mahon.",
-        "ISBN": "950-15-1241-X",
-        "Materia": "Empresa-Calidad total.",
-        "Año": "1992",
-        "Editorial": "Vergara.",
-        "LCC": "HF 5549 M23",
-        "Ubicacion": "(16.8, 2)",
-        "id": 222
-    },
-    {
-        "Titulo": "Contabilidad Básica.",
-        "Autor": "Joaquín Moreno Fernández.",
-        "ISBN": "968-6964-48-7",
-        "Materia": "Contabilidad básica.",
-        "Año": "1993",
-        "Editorial": "Instituto Mexicano de Contadores Publicos, A.C.",
-        "LCC": "HF 5651 M58",
-        "Ubicacion": "(20, 2)",
-        "id": 223
     },
     {
         "Titulo": "Marketing International de Productos Industriales.",
@@ -2460,8 +2427,8 @@
         "Año": "1992",
         "Editorial": "Gestion-Addison-Wesley-3000.",
         "LCC": "HF 1009.5 A4",
-        "Ubicacion": "(20.4, 5)",
-        "id": 224
+        "Ubicacion": "(20.4, 5) Estantería 2 Repisa H",
+        "id": 221
     },
     {
         "Titulo": "Exporting, Importing, and Beyond.",
@@ -2471,8 +2438,8 @@
         "Año": "1994",
         "Editorial": "Adams Media Corporation Holdbrook, Massachusetts.",
         "LCC": "HF 1455 T78",
-        "Ubicacion": "(21, 5)",
-        "id": 225
+        "Ubicacion": "(21, 5) Estantería 2 Repisa H",
+        "id": 222
     },
     {
         "Titulo": "Como Prepararse Administrativamente para Aprovechar el ALC.",
@@ -2482,8 +2449,8 @@
         "Año": "1991",
         "Editorial": "DHL",
         "LCC": "HF 1775 A42",
-        "Ubicacion": "(21.3, 5)",
-        "id": 226
+        "Ubicacion": "(21.3, 5) Estantería 2 Repisa H",
+        "id": 223
     },
     {
         "Titulo": "¡Me lleva el TLC!",
@@ -2493,8 +2460,8 @@
         "Año": "1993",
         "Editorial": "grijalbo.",
         "LCC": "HF 1775 M2",
-        "Ubicacion": "(21.4, 5)",
-        "id": 227
+        "Ubicacion": "(21.4, 5) Estantería 2 Repisa H",
+        "id": 224
     },
     {
         "Titulo": "Nafta Vademecum",
@@ -2504,8 +2471,8 @@
         "Año": "1994",
         "Editorial": "Bryan, Gonzalez Vargaz & Gonzalez Baz, S.C.",
         "LCC": "HF 1775 N25",
-        "Ubicacion": "(21.5, 5)",
-        "id": 228
+        "Ubicacion": "(21.5, 5) Estantería 2 Repisa H",
+        "id": 225
     },
     {
         "Titulo": "Reglas para la Aplicación de las Disposiciones en Materia Aduanera del T.L.C.",
@@ -2515,8 +2482,8 @@
         "Año": "1994",
         "Editorial": "Ediciones Fiscales ISEF, S.A.",
         "LCC": "HF 1775 R4",
-        "Ubicacion": "(21.7, 5)",
-        "id": 229
+        "Ubicacion": "(21.7, 5) Estantería 2 Repisa H",
+        "id": 226
     },
     {
         "Titulo": "Tratado de Libre Comercio de América del Norte.",
@@ -2526,8 +2493,8 @@
         "Año": "1993",
         "Editorial": "Miguel Angel Porrúa, Librero Editor.",
         "LCC": "HF  1776 T73",
-        "Ubicacion": "(22, 5)",
-        "id": 230
+        "Ubicacion": "(22, 5) Estantería 2 Repisa H",
+        "id": 227
     },
     {
         "Titulo": "Empresarios Coloniales.",
@@ -2537,8 +2504,8 @@
         "Año": "1986",
         "Editorial": "Fondo de Cultura Economica.",
         "LCC": "HF 3240 M5 K5318",
-        "Ubicacion": "(22.3, 5)",
-        "id": 231
+        "Ubicacion": "(22.3, 5) Estantería 2 Repisa H",
+        "id": 228
     },
     {
         "Titulo": "Documentación Mercantil .",
@@ -2548,8 +2515,8 @@
         "Año": "1977",
         "Editorial": "Editorial Herrero, S.A.",
         "LCC": "HF 3507 H7",
-        "Ubicacion": "(22.5, 5)",
-        "id": 232
+        "Ubicacion": "(22.5, 5) Estantería 2 Repisa H",
+        "id": 229
     },
     {
         "Titulo": "HURDLE: the book on Business Planning.",
@@ -2559,8 +2526,8 @@
         "Año": "1999",
         "Editorial": "Timothy J. Berry",
         "LCC": "HF 5351 B2",
-        "Ubicacion": "(23, 5)",
-        "id": 233
+        "Ubicacion": "(23, 5) Estantería 2 Repisa H",
+        "id": 230
     },
     {
         "Titulo": "Business Organization.",
@@ -2570,8 +2537,8 @@
         "Año": "1945",
         "Editorial": "Modern Business.",
         "LCC": "HF 5351 C6",
-        "Ubicacion": "(23.2, 5)",
-        "id": 234
+        "Ubicacion": "(23.2, 5) Estantería 2 Repisa H",
+        "id": 231
     },
     {
         "Titulo": "Office Administration",
@@ -2581,8 +2548,8 @@
         "Año": "1945",
         "Editorial": "Modern Business.",
         "LCC": "HF 5351 D37",
-        "Ubicacion": "(23.5, 5)",
-        "id": 235
+        "Ubicacion": "(23.5, 5) Estantería 2 Repisa H",
+        "id": 232
     },
     {
         "Titulo": "Cost Finding.",
@@ -2592,8 +2559,8 @@
         "Año": "1945",
         "Editorial": "Modern Business",
         "LCC": "HF 5351 K52",
-        "Ubicacion": "(23.7, 5)",
-        "id": 236
+        "Ubicacion": "(23.7, 5) Estantería 2 Repisa H",
+        "id": 233
     },
     {
         "Titulo": "Advertising Campaigns.",
@@ -2603,8 +2570,8 @@
         "Año": "1945",
         "Editorial": "Modern Business.",
         "LCC": "HF 5351 M3",
-        "Ubicacion": "(24, 5)",
-        "id": 237
+        "Ubicacion": "(24, 5) Estantería 2 Repisa H",
+        "id": 234
     },
     {
         "Titulo": "Budgelary Control.",
@@ -2614,8 +2581,8 @@
         "Año": "1945",
         "Editorial": "Modern Business.",
         "LCC": "HF 5351 M29",
-        "Ubicacion": "(24.3, 5)",
-        "id": 238
+        "Ubicacion": "(24.3, 5) Estantería 2 Repisa H",
+        "id": 235
     },
     {
         "Titulo": "La Empresa Virtual.",
@@ -2625,8 +2592,8 @@
         "Año": "1998",
         "Editorial": "McGraw-Hill",
         "LCC": "HF 5353 C85",
-        "Ubicacion": "(24.5, 5)",
-        "id": 239
+        "Ubicacion": "(24.5, 5) Estantería 2 Repisa H",
+        "id": 236
     },
     {
         "Titulo": "What to Ask When You Don´t Know What to Say.",
@@ -2636,8 +2603,8 @@
         "Año": "1993",
         "Editorial": "Prentice Hall.",
         "LCC": "HF 5381 D422",
-        "Ubicacion": "(25, 5)",
-        "id": 240
+        "Ubicacion": "(25, 5) Estantería 2 Repisa H",
+        "id": 237
     },
     {
         "Titulo": "How to Become CEO.",
@@ -2647,8 +2614,8 @@
         "Año": "1998",
         "Editorial": "Hyperion New York.",
         "LCC": "HF 5381 F73",
-        "Ubicacion": "(25.3, 5)",
-        "id": 241
+        "Ubicacion": "(25.3, 5) Estantería 2 Repisa H",
+        "id": 238
     },
     {
         "Titulo": "Don´t Send a Resume.",
@@ -2658,8 +2625,8 @@
         "Año": "2001",
         "Editorial": "Hyperion New York.",
         "LCC": "HF 5382.7 F68 2001 Ej.1",
-        "Ubicacion": "(25.5, 5)",
-        "id": 242
+        "Ubicacion": "(25.5, 5) Estantería 2 Repisa H",
+        "id": 239
     },
     {
         "Titulo": "Don´t Send a Resume.",
@@ -2669,8 +2636,8 @@
         "Año": "2001",
         "Editorial": "Hyperion New York.",
         "LCC": "HF 5382.7 F68 2001 Ej.2",
-        "Ubicacion": "(25.8, 5)",
-        "id": 243
+        "Ubicacion": "(25.8, 5) Estantería 2 Repisa H",
+        "id": 240
     },
     {
         "Titulo": "Usted Puede Conseguir el Trabajo que Merece",
@@ -2680,8 +2647,8 @@
         "Año": "1998",
         "Editorial": "Vergara Bolsillo.",
         "LCC": "HF 5381 L3464",
-        "Ubicacion": "(26, 5)",
-        "id": 244
+        "Ubicacion": "(26, 5) Estantería 2 Repisa H",
+        "id": 241
     },
     {
         "Titulo": "Bring Your Brain to Work.",
@@ -2691,8 +2658,8 @@
         "Año": "2019",
         "Editorial": "Harvard Business Review Press.",
         "LCC": "HF 5381 M268 2019",
-        "Ubicacion": "(26.5, 5)",
-        "id": 245
+        "Ubicacion": "(26.5, 5) Estantería 2 Repisa H",
+        "id": 242
     },
     {
         "Titulo": "Don´t Worry, Make Money.",
@@ -2702,8 +2669,8 @@
         "Año": "1997",
         "Editorial": "Hyperion New York.",
         "LCC": "HF 5386 C272",
-        "Ubicacion": "(26.8, 5)",
-        "id": 246
+        "Ubicacion": "(26.8, 5) Estantería 2 Repisa H",
+        "id": 243
     },
     {
         "Titulo": "Los Negocios en la Era Digital.",
@@ -2713,8 +2680,8 @@
         "Año": "1999",
         "Editorial": "Plaza & Janés Editores, S.A.",
         "LCC": "HF 5386 G3818",
-        "Ubicacion": "(15.5, 4)",
-        "id": 247
+        "Ubicacion": "(15.5, 4) Estantería 2 Repisa H",
+        "id": 244
     },
     {
         "Titulo": "El Triunfo del Ejecutivo.",
@@ -2724,8 +2691,8 @@
         "Año": "1992",
         "Editorial": "Vergara.",
         "LCC": "HF 5386 H3518",
-        "Ubicacion": "(16, 4)",
-        "id": 248
+        "Ubicacion": "(16, 4) Estantería 2 Repisa H",
+        "id": 245
     },
     {
         "Titulo": "El Pensamiento Practico en los Negocios.",
@@ -2735,8 +2702,8 @@
         "Año": "1993",
         "Editorial": "Vergara.",
         "LCC": "HF 5386 H5318",
-        "Ubicacion": "(16.3, 4)",
-        "id": 249
+        "Ubicacion": "(16.3, 4) Estantería 2 Repisa H",
+        "id": 246
     },
     {
         "Titulo": "La Visualización en los Negocios.",
@@ -2746,8 +2713,8 @@
         "Año": "1994",
         "Editorial": "SELECTOR.",
         "LCC": "HF 5386 W33",
-        "Ubicacion": "(16.5, 4)",
-        "id": 250
+        "Ubicacion": "(16.5, 4) Estantería 2 Repisa H",
+        "id": 247
     },
     {
         "Titulo": "The One Minute Millionare.",
@@ -2757,8 +2724,8 @@
         "Año": "2002",
         "Editorial": "Harmony Books New York.",
         "LCC": "HF 5386 H2463 2002",
-        "Ubicacion": "(17, 4)",
-        "id": 251
+        "Ubicacion": "(17, 4) Estantería 2 Repisa H",
+        "id": 248
     },
     {
         "Titulo": "Siete Habilidades para Hacer Dinero.",
@@ -2768,8 +2735,8 @@
         "Año": "1996",
         "Editorial": "Editorial Pac, S.A. de C.V.",
         "LCC": "HF 5386 O52",
-        "Ubicacion": "(17.2, 4)",
-        "id": 252
+        "Ubicacion": "(17.2, 4) Estantería 2 Repisa H",
+        "id": 249
     },
     {
         "Titulo": "Todo lo Que Sé lo Aprendi al Comienzo.",
@@ -2779,8 +2746,8 @@
         "Año": "1991",
         "Editorial": "interNET.",
         "LCC": "HF 5386 Y33",
-        "Ubicacion": "(17.4, 4)",
-        "id": 253
+        "Ubicacion": "(17.4, 4) Estantería 2 Repisa H",
+        "id": 250
     },
     {
         "Titulo": "Como Vender su Propia Imagen.",
@@ -2790,8 +2757,8 @@
         "Año": "1993",
         "Editorial": "grijalbo.",
         "LCC": "HF 5386.5 B46",
-        "Ubicacion": "(17.6, 4)",
-        "id": 254
+        "Ubicacion": "(17.6, 4) Estantería 2 Repisa H",
+        "id": 251
     },
     {
         "Titulo": "La Empresa de Servicios Profesionales 50.",
@@ -2801,8 +2768,8 @@
         "Año": "1999",
         "Editorial": "Editorial Atlantida.",
         "LCC": "HF 5387 P47",
-        "Ubicacion": "(18, 4)",
-        "id": 255
+        "Ubicacion": "(18, 4) Estantería 2 Repisa H",
+        "id": 252
     },
     {
         "Titulo": "101 Ways to Conduct Business with Charm and Savvy.",
@@ -2812,8 +2779,8 @@
         "Año": "1998",
         "Editorial": "Business Etiquette",
         "LCC": "HF 5389 S228",
-        "Ubicacion": "(18.2, 4)",
-        "id": 256
+        "Ubicacion": "(18.2, 4) Estantería 2 Repisa H",
+        "id": 253
     },
     {
         "Titulo": "Comercio electronico, publicidad y marketing en Internet.",
@@ -2823,8 +2790,8 @@
         "Año": "2001",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5414 B9",
-        "Ubicacion": "(18.4, 4)",
-        "id": 257
+        "Ubicacion": "(18.4, 4) Estantería 2 Repisa H",
+        "id": 254
     },
     {
         "Titulo": "Strategic Market Planning.",
@@ -2834,8 +2801,8 @@
         "Año": "1998",
         "Editorial": "NTC Business Book",
         "LCC": "HF 5415 H2844",
-        "Ubicacion": "(18.5, 4)",
-        "id": 258
+        "Ubicacion": "(18.5, 4) Estantería 2 Repisa H",
+        "id": 255
     },
     {
         "Titulo": "Fundamentos de Mercadotecnia.",
@@ -2845,8 +2812,8 @@
         "Año": "1998",
         "Editorial": "Prentice Hall",
         "LCC": "HF 5415 K67",
-        "Ubicacion": "(19, 4)",
-        "id": 259
+        "Ubicacion": "(19, 4) Estantería 2 Repisa H",
+        "id": 256
     },
     {
         "Titulo": "The Marketing Imagination.",
@@ -2856,8 +2823,8 @@
         "Año": "1986",
         "Editorial": "The Free Press New York.",
         "LCC": "HF 5415 L482",
-        "Ubicacion": "(19.3, 4)",
-        "id": 260
+        "Ubicacion": "(19.3, 4) Estantería 2 Repisa H",
+        "id": 257
     },
     {
         "Titulo": "Inmunidad al Mercado.",
@@ -2867,8 +2834,8 @@
         "Año": "1989",
         "Editorial": "LEGIS Fondo Editorial.",
         "LCC": "HF 5415 L3618",
-        "Ubicacion": "(19.5, 4)",
-        "id": 261
+        "Ubicacion": "(19.5, 4) Estantería 2 Repisa H",
+        "id": 258
     },
     {
         "Titulo": "Marketing con Ingenio.",
@@ -2878,8 +2845,8 @@
         "Año": "1992",
         "Editorial": "McGraw-Hill",
         "LCC": "HF 5415 M1 S58",
-        "Ubicacion": "(19.7, 4)",
-        "id": 262
+        "Ubicacion": "(19.7, 4) Estantería 2 Repisa H",
+        "id": 259
     },
     {
         "Titulo": "HIPERMARKETING.",
@@ -2889,8 +2856,8 @@
         "Año": "2004",
         "Editorial": "OCEANO.",
         "LCC": "HF 5415 M373 2004",
-        "Ubicacion": "(20, 4)",
-        "id": 263
+        "Ubicacion": "(20, 4) Estantería 2 Repisa H",
+        "id": 260
     },
     {
         "Titulo": "El Espejismo del Mercadeo.",
@@ -2900,8 +2867,8 @@
         "Año": "1989",
         "Editorial": "LEGIS Fondo Editorial.",
         "LCC": "HF 5415 M2818",
-        "Ubicacion": "(20.2, 4)",
-        "id": 264
+        "Ubicacion": "(20.2, 4) Estantería 2 Repisa H",
+        "id": 261
     },
     {
         "Titulo": "Mercadotecnia Para El Éxito.",
@@ -2911,8 +2878,8 @@
         "Año": "1990",
         "Editorial": "PROMEXA",
         "LCC": "HF 5415 M72518",
-        "Ubicacion": "(20.4, 4)",
-        "id": 265
+        "Ubicacion": "(20.4, 4) Estantería 2 Repisa H",
+        "id": 262
     },
     {
         "Titulo": "Telemercado: La Comercialización Mediante el Teléfono.",
@@ -2922,8 +2889,8 @@
         "Año": "1983",
         "Editorial": "Norma.",
         "LCC": "HF 5415 P63",
-        "Ubicacion": "(20.5, 4)",
-        "id": 266
+        "Ubicacion": "(20.5, 4) Estantería 2 Repisa H",
+        "id": 263
     },
     {
         "Titulo": "Mercadeo Practico para Nuevas Empresas.",
@@ -2933,8 +2900,8 @@
         "Año": "1988",
         "Editorial": "LEGIS Fondo Editorial.",
         "LCC": "HF 5415 P3718",
-        "Ubicacion": "(20.7, 4)",
-        "id": 267
+        "Ubicacion": "(20.7, 4) Estantería 2 Repisa H",
+        "id": 264
     },
     {
         "Titulo": "MaxiMarketing.",
@@ -2944,8 +2911,8 @@
         "Año": "1989",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5415 R325",
-        "Ubicacion": "(21, 4)",
-        "id": 268
+        "Ubicacion": "(21, 4) Estantería 2 Repisa H",
+        "id": 265
     },
     {
         "Titulo": "Las 22 Leyes Inmutables del Marketing.",
@@ -2955,8 +2922,8 @@
         "Año": "1994",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5415 R54369",
-        "Ubicacion": "(21.2, 4)",
-        "id": 269
+        "Ubicacion": "(21.2, 4) Estantería 2 Repisa H",
+        "id": 266
     },
     {
         "Titulo": "Programa MBA para el Administrador de Hoy.",
@@ -2966,8 +2933,8 @@
         "Año": "1997",
         "Editorial": "Prentice Hall.",
         "LCC": "HF 5415 S6218",
-        "Ubicacion": "(21.5, 4)",
-        "id": 270
+        "Ubicacion": "(21.5, 4) Estantería 2 Repisa H",
+        "id": 267
     },
     {
         "Titulo": "Secretos Eficaces para Ventadspor Teléfono.",
@@ -2977,8 +2944,19 @@
         "Año": "1992",
         "Editorial": "McGraw-Hill",
         "LCC": "HF 5415 T1 S58",
-        "Ubicacion": "(21.5, 4)",
-        "id": 271
+        "Ubicacion": "(21.5, 4) Estantería 2 Repisa H",
+        "id": 268
+    },
+    {
+        "Titulo": "Differentiate or Die.",
+        "Autor": "Jack Trout.",
+        "ISBN": "0-471-35764-2",
+        "Materia": "Brand name products.",
+        "Año": "2000",
+        "Editorial": "John Wiley & Sons, Inc.",
+        "LCC": "HF 5415 T272 2000",
+        "Ubicacion": "(22, 4) Estantería 2 Repisa H",
+        "id": 269
     },
     {
         "Titulo": "El Control Total de la Calidad.",
@@ -2988,8 +2966,8 @@
         "Año": "1991",
         "Editorial": "LEGID Fondo Editorial.",
         "LCC": "HF 5415.2 G65",
-        "Ubicacion": "(22.2, 4)",
-        "id": 272
+        "Ubicacion": "(22.2, 4) Estantería 2 Repisa H",
+        "id": 270
     },
     {
         "Titulo": "Por Qué Compra a la Gente",
@@ -2999,8 +2977,8 @@
         "Año": "1989",
         "Editorial": "Ediciones Diaz de Santos, S.A.",
         "LCC": "HF 5415.3 O84",
-        "Ubicacion": "(22.5, 4)",
-        "id": 273
+        "Ubicacion": "(22.5, 4) Estantería 2 Repisa H",
+        "id": 271
     },
     {
         "Titulo": "El Comportamiento del Consumidor.",
@@ -3010,8 +2988,8 @@
         "Año": "1988",
         "Editorial": "trillas.",
         "LCC": "HF 5415.3 S33",
-        "Ubicacion": "(22.7, 4)",
-        "id": 274
+        "Ubicacion": "(22.7, 4) Estantería 2 Repisa H",
+        "id": 272
     },
     {
         "Titulo": "Cómo Descubrir el Alma del Servicio.",
@@ -3021,8 +2999,8 @@
         "Año": "1999",
         "Editorial": "GRANICA.",
         "LCC": "HF 5415.5 B47",
-        "Ubicacion": "(23, 4)",
-        "id": 275
+        "Ubicacion": "(23, 4) Estantería 2 Repisa H",
+        "id": 273
     },
     {
         "Titulo": "Marketing de Servicios.",
@@ -3032,8 +3010,8 @@
         "Año": "1991",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5415.5 C6",
-        "Ubicacion": "(23.3, 4)",
-        "id": 276
+        "Ubicacion": "(23.3, 4) Estantería 2 Repisa H",
+        "id": 274
     },
     {
         "Titulo": "Las Mejores Prácticas.",
@@ -3043,8 +3021,8 @@
         "Año": "1998",
         "Editorial": "norma.",
         "LCC": "HF 5415.5 H53",
-        "Ubicacion": "(23.5, 4)",
-        "id": 277
+        "Ubicacion": "(23.5, 4) Estantería 2 Repisa H",
+        "id": 275
     },
     {
         "Titulo": "De la Mercadotecnica a las Ventas.",
@@ -3054,8 +3032,8 @@
         "Año": "2000",
         "Editorial": "SICCO.",
         "LCC": "HF 5415.5 I22",
-        "Ubicacion": "(24, 4)",
-        "id": 278
+        "Ubicacion": "(24, 4) Estantería 2 Repisa H",
+        "id": 276
     },
     {
         "Titulo": "Servicio, Servicio,  Servicio.",
@@ -3065,8 +3043,8 @@
         "Año": "1996",
         "Editorial": "PANORAMA.",
         "LCC": "HF 5415.5 T5318",
-        "Ubicacion": "(24.2, 4)",
-        "id": 279
+        "Ubicacion": "(24.2, 4) Estantería 2 Repisa H",
+        "id": 277
     },
     {
         "Titulo": "After-marketing.",
@@ -3076,8 +3054,8 @@
         "Año": "1994",
         "Editorial": "Addison-Wesley Iberoamericana.",
         "LCC": "HF 5415.5 V3818",
-        "Ubicacion": "(24.3, 4)",
-        "id": 280
+        "Ubicacion": "(24.3, 4) Estantería 2 Repisa H",
+        "id": 278
     },
     {
         "Titulo": "PROHIBIDO VENDER: ¡es hora de asociarse!",
@@ -3087,8 +3065,8 @@
         "Año": "1996",
         "Editorial": "norma.",
         "LCC": "HF 5415.5 W595",
-        "Ubicacion": "(24.5, 4)",
-        "id": 281
+        "Ubicacion": "(24.5, 4) Estantería 2 Repisa H",
+        "id": 279
     },
     {
         "Titulo": "LOGISTICA COMERCIAL.",
@@ -3098,8 +3076,8 @@
         "Año": "1992",
         "Editorial": "Diaz de Santos, S.A.",
         "LCC": "HF 5415.7 L64",
-        "Ubicacion": "(24.7, 4)",
-        "id": 282
+        "Ubicacion": "(24.7, 4) Estantería 2 Repisa H",
+        "id": 280
     },
     {
         "Titulo": "Dirección de Marcadotecnia.",
@@ -3109,8 +3087,8 @@
         "Año": "1985",
         "Editorial": "Diana",
         "LCC": "HF 5415.13 K64",
-        "Ubicacion": "(25, 4)",
-        "id": 283
+        "Ubicacion": "(25, 4) Estantería 2 Repisa H",
+        "id": 281
     },
     {
         "Titulo": "La Empresa Consagrada al Cliente.",
@@ -3120,8 +3098,8 @@
         "Año": "1992",
         "Editorial": "Vergara.",
         "LCC": "HF 5415.15 W4518",
-        "Ubicacion": "(25.5, 4)",
-        "id": 284
+        "Ubicacion": "(25.5, 4) Estantería 2 Repisa H",
+        "id": 282
     },
     {
         "Titulo": "Comunicaciones de Marketing Integradas.",
@@ -3131,8 +3109,8 @@
         "Año": "1993",
         "Editorial": "Vergara.",
         "LCC": "HF 5415.123 S38",
-        "Ubicacion": "(26, 4)",
-        "id": 285
+        "Ubicacion": "(26, 4) Estantería 2 Repisa H",
+        "id": 283
     },
     {
         "Titulo": "Secretos del Éxito en el Correo Directo.",
@@ -3142,8 +3120,8 @@
         "Año": "1992",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5415.126 B4518",
-        "Ubicacion": "(26.3, 4)",
-        "id": 286
+        "Ubicacion": "(26.3, 4) Estantería 2 Repisa H",
+        "id": 284
     },
     {
         "Titulo": "Inside Network Marketing.",
@@ -3153,8 +3131,8 @@
         "Año": "1997",
         "Editorial": "Prima Publishing.",
         "LCC": "HF 5415.126 C54",
-        "Ubicacion": "(26.5, 4)",
-        "id": 287
+        "Ubicacion": "(26.5, 4) Estantería 2 Repisa H",
+        "id": 285
     },
     {
         "Titulo": "Excellence in Direct Marketing.",
@@ -3164,8 +3142,8 @@
         "Año": "1992",
         "Editorial": "Direct Marketing Association, Inc.",
         "LCC": "HF 5415.126 E93",
-        "Ubicacion": "(27, 4)",
-        "id": 288
+        "Ubicacion": "(27, 4) Estantería 2 Repisa H",
+        "id": 286
     },
     {
         "Titulo": "The Experience Economy.",
@@ -3175,8 +3153,8 @@
         "Año": "1999",
         "Editorial": "Harvard Business School Press.",
         "LCC": "HF 5415.15 P56",
-        "Ubicacion": "(27.3, 4)",
-        "id": 289
+        "Ubicacion": "(27.3, 4) Estantería 2 Repisa H",
+        "id": 287
     },
     {
         "Titulo": "Exceptional Selling.",
@@ -3186,8 +3164,8 @@
         "Año": "2006",
         "Editorial": "John Wiley & Sons, Inc.",
         "LCC": "HF 5415.1263 T59 2006",
-        "Ubicacion": "(27.5, 4)",
-        "id": 290
+        "Ubicacion": "(27.5, 4) Estantería 2 Repisa H",
+        "id": 288
     },
     {
         "Titulo": "The e-CODE.",
@@ -3197,8 +3175,8 @@
         "Año": "2005",
         "Editorial": "John Wiley & Sons, Inc.",
         "LCC": "HF 5415.1265 V583 2005",
-        "Ubicacion": "(14.5, 3)",
-        "id": 291
+        "Ubicacion": "(14.5, 3) Estantería 2 Repisa H",
+        "id": 289
     },
     {
         "Titulo": "Net Again.",
@@ -3208,8 +3186,8 @@
         "Año": "1997",
         "Editorial": "Harvard Business School Press.",
         "LCC": "HF 5415.1265 H34",
-        "Ubicacion": "(15, 3)",
-        "id": 292
+        "Ubicacion": "(15, 3) Estantería 2 Repisa H",
+        "id": 290
     },
     {
         "Titulo": "Negocios rentables a través de internet.",
@@ -3219,8 +3197,8 @@
         "Año": "1999",
         "Editorial": "PAIDÓS.",
         "LCC": "HF 5415.1265 H35",
-        "Ubicacion": "(15.5, 3)",
-        "id": 293
+        "Ubicacion": "(15.5, 3) Estantería 2 Repisa H",
+        "id": 291
     },
     {
         "Titulo": "La Revolución Comercial.",
@@ -3230,8 +3208,8 @@
         "Año": "2001",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5417 L54",
-        "Ubicacion": "(16, 3)",
-        "id": 294
+        "Ubicacion": "(16, 3) Estantería 2 Repisa H",
+        "id": 292
     },
     {
         "Titulo": "Las Mejores Franquicias 1995.",
@@ -3241,8 +3219,8 @@
         "Año": "1995",
         "Editorial": "Organización Mexico Nuevo, S.A. de C.V.",
         "LCC": "HF 5429 C37",
-        "Ubicacion": "(16.3, 3)",
-        "id": 295
+        "Ubicacion": "(16.3, 3) Estantería 2 Repisa H",
+        "id": 293
     },
     {
         "Titulo": "Store & Showroom.",
@@ -3252,8 +3230,8 @@
         "Año": "1988",
         "Editorial": "Shotenkenchiku-sha Co., Ltd.",
         "LCC": "HF 5429.7 S7",
-        "Ubicacion": "(16.5, 3)",
-        "id": 296
+        "Ubicacion": "(16.5, 3) Estantería 2 Repisa H",
+        "id": 294
     },
     {
         "Titulo": "Stores of the YEAR/5.",
@@ -3263,8 +3241,8 @@
         "Año": "1989",
         "Editorial": "Retail Reporting Corporation, New York.",
         "LCC": "HF 5429.7 S8",
-        "Ubicacion": "(17, 3)",
-        "id": 297
+        "Ubicacion": "(17, 3) Estantería 2 Repisa H",
+        "id": 295
     },
     {
         "Titulo": "Store Signs.2",
@@ -3274,8 +3252,8 @@
         "Año": "1992",
         "Editorial": "Shotenkenchiku-sha Co., Ltd.",
         "LCC": "HF 5429.8 S9",
-        "Ubicacion": "(17.3, 3)",
-        "id": 298
+        "Ubicacion": "(17.3, 3) Estantería 2 Repisa H",
+        "id": 296
     },
     {
         "Titulo": "The Wal-mart Effect.",
@@ -3285,8 +3263,8 @@
         "Año": "2006",
         "Editorial": "Penguin Books.",
         "LCC": "HF 5429.216 U6 F56 2006",
-        "Ubicacion": "(17.5, 3)",
-        "id": 299
+        "Ubicacion": "(17.5, 3) Estantería 2 Repisa H",
+        "id": 297
     },
     {
         "Titulo": "El Contrato de Franquicia.",
@@ -3296,8 +3274,8 @@
         "Año": "1995",
         "Editorial": "Themis, S.A. DE C.V.",
         "LCC": "HF 5429.235 M4 A73",
-        "Ubicacion": "(17.6, 3)",
-        "id": 300
+        "Ubicacion": "(17.6, 3) Estantería 2 Repisa H",
+        "id": 298
     },
     {
         "Titulo": "Central City Malls.",
@@ -3307,8 +3285,8 @@
         "Año": "1978",
         "Editorial": "John Wiley & Sons.",
         "LCC": "HF 5430 R8",
-        "Ubicacion": "(18, 3)",
-        "id": 301
+        "Ubicacion": "(18, 3) Estantería 2 Repisa H",
+        "id": 299
     },
     {
         "Titulo": "Storefronts and Facades.",
@@ -3318,8 +3296,8 @@
         "Año": "1988",
         "Editorial": "Retail Reporting Corporation New  York.",
         "LCC": "HF 5430 S7",
-        "Ubicacion": "(18.3, 3)",
-        "id": 302
+        "Ubicacion": "(18.3, 3) Estantería 2 Repisa H",
+        "id": 300
     },
     {
         "Titulo": "Tell & Sell.",
@@ -3329,8 +3307,8 @@
         "Año": "1979",
         "Editorial": "Sings of The Times Publishing Company.",
         "LCC": "HF 5437 P37",
-        "Ubicacion": "(18.4, 3)",
-        "id": 303
+        "Ubicacion": "(18.4, 3) Estantería 2 Repisa H",
+        "id": 301
     },
     {
         "Titulo": "Administración de Ventas Principios y Problemas.",
@@ -3340,8 +3318,8 @@
         "Año": "1990",
         "Editorial": "Diana.",
         "LCC": "HF 5438 C328",
-        "Ubicacion": "(18.5, 3)",
-        "id": 304
+        "Ubicacion": "(18.5, 3) Estantería 2 Repisa H",
+        "id": 302
     },
     {
         "Titulo": "La Biblia del Vendedor.",
@@ -3351,8 +3329,8 @@
         "Año": "1997",
         "Editorial": "Diana.",
         "LCC": "HF 5438 D49",
-        "Ubicacion": "(19, 3)",
-        "id": 305
+        "Ubicacion": "(19, 3) Estantería 2 Repisa H",
+        "id": 303
     },
     {
         "Titulo": "Sales Management.",
@@ -3362,8 +3340,8 @@
         "Año": "1945",
         "Editorial": "Modern Business.",
         "LCC": "HF 5438 J66",
-        "Ubicacion": "(19.3, 3)",
-        "id": 306
+        "Ubicacion": "(19.3, 3) Estantería 2 Repisa H",
+        "id": 304
     },
     {
         "Titulo": "Estadisticas de Ventas con Hoja Electronica.",
@@ -3373,8 +3351,8 @@
         "Año": "1989",
         "Editorial": "J.M.a Riera.",
         "LCC": "HF 5438 R54",
-        "Ubicacion": "(19.5, 3)",
-        "id": 307
+        "Ubicacion": "(19.5, 3) Estantería 2 Repisa H",
+        "id": 305
     },
     {
         "Titulo": "Administración del programa de ventas.",
@@ -3384,8 +3362,8 @@
         "Año": "1981",
         "Editorial": "Diana.",
         "LCC": "HF 5438.4 S53",
-        "Ubicacion": "(20, 3)",
-        "id": 308
+        "Ubicacion": "(20, 3) Estantería 2 Repisa H",
+        "id": 306
     },
     {
         "Titulo": "The Mentor.",
@@ -3395,8 +3373,8 @@
         "Año": "1998",
         "Editorial": "Donald. I. Fine Books.",
         "LCC": "HF 5438.25 C329 1998",
-        "Ubicacion": "(20.3, 3)",
-        "id": 309
+        "Ubicacion": "(20.3, 3) Estantería 2 Repisa H",
+        "id": 307
     },
     {
         "Titulo": "Visionary Selling.",
@@ -3406,8 +3384,8 @@
         "Año": "1998",
         "Editorial": "Simon & Schuster.",
         "LCC": "HF 5438.25 G47",
-        "Ubicacion": "(20.5, 3)",
-        "id": 310
+        "Ubicacion": "(20.5, 3) Estantería 2 Repisa H",
+        "id": 308
     },
     {
         "Titulo": "Little Red Book of Selling.",
@@ -3417,8 +3395,8 @@
         "Año": "2005",
         "Editorial": "Bard Press.",
         "LCC": "HF 5438.25 G58 2004",
-        "Ubicacion": "(21, 3)",
-        "id": 311
+        "Ubicacion": "(21, 3) Estantería 2 Repisa H",
+        "id": 309
     },
     {
         "Titulo": "Consultative Selling.",
@@ -3428,8 +3406,8 @@
         "Año": "2004",
         "Editorial": "AMACON.",
         "LCC": "HF 5438.25 H345 2004",
-        "Ubicacion": "(21.4, 3)",
-        "id": 312
+        "Ubicacion": "(21.4, 3) Estantería 2 Repisa H",
+        "id": 310
     },
     {
         "Titulo": "La Venta Conceptual.",
@@ -3439,8 +3417,8 @@
         "Año": "1987",
         "Editorial": "grijalbo.",
         "LCC": "HF 5438.25 M5618",
-        "Ubicacion": "(21.5, 3)",
-        "id": 313
+        "Ubicacion": "(21.5, 3) Estantería 2 Repisa H",
+        "id": 311
     },
     {
         "Titulo": "Ventas de Calidad Mundial.",
@@ -3450,8 +3428,8 @@
         "Año": "1992",
         "Editorial": "Ventura.",
         "LCC": "HF 5438.25 M6718",
-        "Ubicacion": "(21.8, 3)",
-        "id": 314
+        "Ubicacion": "(21.8, 3) Estantería 2 Repisa H",
+        "id": 312
     },
     {
         "Titulo": "Los Cerradores.",
@@ -3461,8 +3439,8 @@
         "Año": "1992",
         "Editorial": "EDAMEX.",
         "LCC": "HF 5438.25 P5318",
-        "Ubicacion": "(22, 3)",
-        "id": 315
+        "Ubicacion": "(22, 3) Estantería 2 Repisa H",
+        "id": 313
     },
     {
         "Titulo": "Closing Techniques.",
@@ -3472,8 +3450,8 @@
         "Año": "1999",
         "Editorial": "Adams Media Corporation.",
         "LCC": "HF 5438.25 S334",
-        "Ubicacion": "(22.2, 3)",
-        "id": 316
+        "Ubicacion": "(22.2, 3) Estantería 2 Repisa H",
+        "id": 314
     },
     {
         "Titulo": "Selling to the Affluent.",
@@ -3483,8 +3461,8 @@
         "Año": "1991",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5438.25 S73",
-        "Ubicacion": "(22.5, 3)",
-        "id": 317
+        "Ubicacion": "(22.5, 3) Estantería 2 Repisa H",
+        "id": 315
     },
     {
         "Titulo": "¿Quien se robo nuestros sueños?",
@@ -3494,8 +3472,8 @@
         "Año": "1993",
         "Editorial": "INTI.",
         "LCC": "HF 5439 H39",
-        "Ubicacion": "(23, 3)",
-        "id": 318
+        "Ubicacion": "(23, 3) Estantería 2 Repisa H",
+        "id": 316
     },
     {
         "Titulo": "¿Quien se robo nuestros sueños?",
@@ -3505,8 +3483,8 @@
         "Año": "1993",
         "Editorial": "INTI.",
         "LCC": "HF 5439 H39 Ej.2",
-        "Ubicacion": "(23.2, 3)",
-        "id": 319
+        "Ubicacion": "(23.2, 3) Estantería 2 Repisa H",
+        "id": 317
     },
     {
         "Titulo": "El Sueño Que No Morira.",
@@ -3516,8 +3494,8 @@
         "Año": "1997",
         "Editorial": "InterNet.",
         "LCC": "HF 5439 S9 C658",
-        "Ubicacion": "(23.4, 3)",
-        "id": 320
+        "Ubicacion": "(23.4, 3) Estantería 2 Repisa H",
+        "id": 318
     },
     {
         "Titulo": "How to Sell Anything to Anybody.",
@@ -3527,8 +3505,8 @@
         "Año": "1977",
         "Editorial": "Warner Books.",
         "LCC": "HF 5439.32 G57 A33",
-        "Ubicacion": "(23.5, 3)",
-        "id": 321
+        "Ubicacion": "(23.5, 3) Estantería 2 Repisa H",
+        "id": 319
     },
     {
         "Titulo": "El Proyecto 50.",
@@ -3538,8 +3516,8 @@
         "Año": "1999",
         "Editorial": "Atlantida.",
         "LCC": "HF 5439.8 P47",
-        "Ubicacion": "(23.7, 3)",
-        "id": 322
+        "Ubicacion": "(23.7, 3) Estantería 2 Repisa H",
+        "id": 320
     },
     {
         "Titulo": "Capacitación y Desarrollo del Equipo de Ventas.",
@@ -3549,8 +3527,8 @@
         "Año": "1994",
         "Editorial": "Addison-Wesley Iberoamericana.",
         "LCC": "HF 5439.8 S3518",
-        "Ubicacion": "(24, 3)",
-        "id": 323
+        "Ubicacion": "(24, 3) Estantería 2 Repisa H",
+        "id": 321
     },
     {
         "Titulo": "How to Hire & Develop Your Next Top Performer.",
@@ -3560,8 +3538,8 @@
         "Año": "2001",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5439.65 G74",
-        "Ubicacion": "(24.3, 3)",
-        "id": 324
+        "Ubicacion": "(24.3, 3) Estantería 2 Repisa H",
+        "id": 322
     },
     {
         "Titulo": "ACT!",
@@ -3571,8 +3549,8 @@
         "Año": "1997",
         "Editorial": "SYMANTEC.",
         "LCC": "HF 5548.2 S3",
-        "Ubicacion": "(24.5, 3)",
-        "id": 325
+        "Ubicacion": "(24.5, 3) Estantería 2 Repisa H",
+        "id": 323
     },
     {
         "Titulo": "Cazador de Cabezas.",
@@ -3582,8 +3560,8 @@
         "Año": "1996",
         "Editorial": "Publicaciones Citem, S.A. de C.V.",
         "LCC": "HF 5549 S56",
-        "Ubicacion": "(24.8, 3)",
-        "id": 326
+        "Ubicacion": "(24.8, 3) Estantería 2 Repisa H",
+        "id": 324
     },
     {
         "Titulo": "Esta vez contrate al mejor.",
@@ -3593,8 +3571,8 @@
         "Año": "1991",
         "Editorial": "Vergara.",
         "LCC": "HF 5549.5 I6 Y3718",
-        "Ubicacion": "(25, 3)",
-        "id": 327
+        "Ubicacion": "(25, 3) Estantería 2 Repisa H",
+        "id": 325
     },
     {
         "Titulo": "Iniciación a la organización y Técnica Comercial.",
@@ -3604,8 +3582,8 @@
         "Año": "1993",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5500 I55",
-        "Ubicacion": "(25.1, 3)",
-        "id": 328
+        "Ubicacion": "(25.1, 3) Estantería 2 Repisa H",
+        "id": 326
     },
     {
         "Titulo": "Sistema de Control Presupuestario.",
@@ -3615,8 +3593,8 @@
         "Año": "1993",
         "Editorial": "Instituto Mexicano de Contadores Públicos, A.C.",
         "LCC": "HF 5500 P3",
-        "Ubicacion": "(25.3, 3)",
-        "id": 329
+        "Ubicacion": "(25.3, 3) Estantería 2 Repisa H",
+        "id": 327
     },
     {
         "Titulo": "Forja del Ejecutivos Innovadores.",
@@ -3626,8 +3604,8 @@
         "Año": "1994",
         "Editorial": "EDAMEX.",
         "LCC": "HF 5500.2 Z36",
-        "Ubicacion": "(25.4, 3)",
-        "id": 330
+        "Ubicacion": "(25.4, 3) Estantería 2 Repisa H",
+        "id": 328
     },
     {
         "Titulo": "¡Haga es Llamada!",
@@ -3637,8 +3615,8 @@
         "Año": "2001",
         "Editorial": "The Sunday Times.",
         "LCC": "HF 5541 T4 M35 2001",
-        "Ubicacion": "(25.5, 3)",
-        "id": 331
+        "Ubicacion": "(25.5, 3) Estantería 2 Repisa H",
+        "id": 329
     },
     {
         "Titulo": "Guía de control interno y objeto de cada control.",
@@ -3648,8 +3626,8 @@
         "Año": "1980",
         "Editorial": "trillas.",
         "LCC": "HF 5547 A3 G3.3",
-        "Ubicacion": "(25.7, 3)",
-        "id": 332
+        "Ubicacion": "(25.7, 3) Estantería 2 Repisa H",
+        "id": 330
     },
     {
         "Titulo": "La Secretaria Perfercta.",
@@ -3659,8 +3637,8 @@
         "Año": "1984",
         "Editorial": "CIA. EDITORIAL CONTINENTAL, S.A. DE C.V.",
         "LCC": "HF 5547 M53 v.1",
-        "Ubicacion": "(25.9, 3)",
-        "id": 333
+        "Ubicacion": "(25.9, 3) Estantería 2 Repisa H",
+        "id": 331
     },
     {
         "Titulo": "La Secretaria Perfecta.",
@@ -3670,8 +3648,8 @@
         "Año": "1984",
         "Editorial": "CIA. EDITORIAL CONTINENTAL, S.A. DE C.V.",
         "LCC": "HF 5547 M53 v.2",
-        "Ubicacion": "(26, 3)",
-        "id": 334
+        "Ubicacion": "(26, 3) Estantería 2 Repisa H",
+        "id": 332
     },
     {
         "Titulo": "La Secretaria Perfecta.",
@@ -3681,8 +3659,8 @@
         "Año": "1984",
         "Editorial": "CIA. EDITORIAL CONTINENTAL, S.A. DE C.V.",
         "LCC": "HF 5547 M53 v.3",
-        "Ubicacion": "(26.5, 3)",
-        "id": 335
+        "Ubicacion": "(26.5, 3) Estantería 2 Repisa H",
+        "id": 333
     },
     {
         "Titulo": "La Secretaria Perfecta.",
@@ -3692,8 +3670,8 @@
         "Año": "1984",
         "Editorial": "CIA. EDITORIAL CONTINENTAL, S.A. DE C.V.",
         "LCC": "HF 5547 M53 v.4",
-        "Ubicacion": "(26.7, 3)",
-        "id": 336
+        "Ubicacion": "(26.7, 3) Estantería 2 Repisa H",
+        "id": 334
     },
     {
         "Titulo": "La Secretaria Perfecta.",
@@ -3703,8 +3681,8 @@
         "Año": "1984",
         "Editorial": "CIA. EDITORIAL CONTINENTAL, S.A. DE C.V.",
         "LCC": "HF 5547 M53 v.5",
-        "Ubicacion": "(27, 3)",
-        "id": 337
+        "Ubicacion": "(27, 3) Estantería 2 Repisa H",
+        "id": 335
     },
     {
         "Titulo": "Open Office Planning.",
@@ -3714,8 +3692,8 @@
         "Año": "1978",
         "Editorial": "Whitney Library of Design.",
         "LCC": "HF 5547 P522",
-        "Ubicacion": "(27.2, 3)",
-        "id": 338
+        "Ubicacion": "(27.2, 3) Estantería 2 Repisa H",
+        "id": 336
     },
     {
         "Titulo": "Making Your Office Work For You.",
@@ -3725,8 +3703,8 @@
         "Año": "1989",
         "Editorial": "Doubleday.",
         "LCC": "HF 5547.2 Y35",
-        "Ubicacion": "(27.5, 3)",
-        "id": 339
+        "Ubicacion": "(27.5, 3) Estantería 2 Repisa H",
+        "id": 337
     },
     {
         "Titulo": "Real Time.",
@@ -3736,8 +3714,8 @@
         "Año": "1997",
         "Editorial": "Harvard Business School Press.",
         "LCC": "HF 5548 M365",
-        "Ubicacion": "(27.7, 3)",
-        "id": 340
+        "Ubicacion": "(27.7, 3) Estantería 2 Repisa H",
+        "id": 338
     },
     {
         "Titulo": "ACT! 2000",
@@ -3747,8 +3725,8 @@
         "Año": "2000",
         "Editorial": "Que, Indianapolis, Ind.",
         "LCC": "HF 5548.2 A8",
-        "Ubicacion": "(15.5, 2)",
-        "id": 341
+        "Ubicacion": "(15.5, 2) Estantería 2 Repisa H",
+        "id": 339
     },
     {
         "Titulo": "Start Your Own e-Business.",
@@ -3758,8 +3736,8 @@
         "Año": "2005",
         "Editorial": "Enterpreneur Magazine´s.",
         "LCC": "HF 5548.32 M37785 2005",
-        "Ubicacion": "(16, 2)",
-        "id": 342
+        "Ubicacion": "(16, 2) Estantería 2 Repisa H",
+        "id": 340
     },
     {
         "Titulo": "The Cluetrain Manifiesto.",
@@ -3769,8 +3747,19 @@
         "Año": "2000",
         "Editorial": "Perseur  Publishing.",
         "LCC": "HF 5548.32 C56",
-        "Ubicacion": "(16.5, 2)",
-        "id": 343
+        "Ubicacion": "(16.5, 2) Estantería 2 Repisa H",
+        "id": 341
+    },
+    {
+        "Titulo": "Las Personas: la clave para el éxito de su empresa.",
+        "Autor": "Heberto Mahon.",
+        "ISBN": "950-15-1241-X",
+        "Materia": "Empresa-Calidad total.",
+        "Año": "1992",
+        "Editorial": "Vergara.",
+        "LCC": "HF 5549 M23",
+        "Ubicacion": "(16.8, 2) Estantería 2 Repisa H",
+        "id": 342
     },
     {
         "Titulo": "International Jobs.",
@@ -3780,8 +3769,8 @@
         "Año": "1993",
         "Editorial": "Addison-Wesley Publishing Company.",
         "LCC": "HF 5549.5 E45 K63",
-        "Ubicacion": "(17, 2)",
-        "id": 344
+        "Ubicacion": "(17, 2) Estantería 2 Repisa H",
+        "id": 343
     },
     {
         "Titulo": "Love´em or Lose´em.",
@@ -3791,8 +3780,8 @@
         "Año": "1999",
         "Editorial": "Berrett-Koehler Publishers, Inc.",
         "LCC": "HF 5549.5 R58 K39",
-        "Ubicacion": "(17.5, 2)",
-        "id": 345
+        "Ubicacion": "(17.5, 2) Estantería 2 Repisa H",
+        "id": 344
     },
     {
         "Titulo": "La Pirámide del Poder.",
@@ -3802,8 +3791,8 @@
         "Año": "1991",
         "Editorial": "Vergara.",
         "LCC": "HF 5549.12 T7218 Ej.1",
-        "Ubicacion": "(17.8, 2)",
-        "id": 346
+        "Ubicacion": "(17.8, 2) Estantería 2 Repisa H",
+        "id": 345
     },
     {
         "Titulo": "La Pirámide del Poder.",
@@ -3813,8 +3802,8 @@
         "Año": "1991",
         "Editorial": "Vergara.",
         "LCC": "HF 5549.12 T7218 Ej.2",
-        "Ubicacion": "(18, 2)",
-        "id": 347
+        "Ubicacion": "(18, 2) Estantería 2 Repisa H",
+        "id": 346
     },
     {
         "Titulo": "La Contraloría y sus Funciones.",
@@ -3824,8 +3813,8 @@
         "Año": "1992",
         "Editorial": "ECASA.",
         "LCC": "HF 5550 G64",
-        "Ubicacion": "(18.2, 2)",
-        "id": 348
+        "Ubicacion": "(18.2, 2) Estantería 2 Repisa H",
+        "id": 347
     },
     {
         "Titulo": "Principios de Contabilidad generalmente aceptados.",
@@ -3835,8 +3824,8 @@
         "Año": "1992",
         "Editorial": "Instituto Mexicano de Contadores Públicos, A.C.",
         "LCC": "HF 5635 P73 1993",
-        "Ubicacion": "(18.4, 2)",
-        "id": 349
+        "Ubicacion": "(18.4, 2) Estantería 2 Repisa H",
+        "id": 348
     },
     {
         "Titulo": "Principios de Contabilidad generalmente aceptados.",
@@ -3846,8 +3835,8 @@
         "Año": "1994",
         "Editorial": "Instituto Mexicano de Contadores Públicos, A.C.",
         "LCC": "HF 5635 P73 1994",
-        "Ubicacion": "(18.8, 2)",
-        "id": 350
+        "Ubicacion": "(18.8, 2) Estantería 2 Repisa H",
+        "id": 349
     },
     {
         "Titulo": "Principios Fundamentales de Contabilidad.",
@@ -3857,8 +3846,8 @@
         "Año": "1969",
         "Editorial": "Herrero Hermanos, Sucesores, S.A. Mexico.",
         "LCC": "HF 5635 P975",
-        "Ubicacion": "(19, 2)",
-        "id": 351
+        "Ubicacion": "(19, 2) Estantería 2 Repisa H",
+        "id": 350
     },
     {
         "Titulo": "Contabilidad Administrativa.",
@@ -3868,8 +3857,8 @@
         "Año": "1990",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5635 R3",
-        "Ubicacion": "(19.3, 2)",
-        "id": 352
+        "Ubicacion": "(19.3, 2) Estantería 2 Repisa H",
+        "id": 351
     },
     {
         "Titulo": "Step-By-Step Bookeeping.",
@@ -3879,8 +3868,8 @@
         "Año": "1992",
         "Editorial": "Sterling Publishing Co., Inc. New York.",
         "LCC": "HF 5635 R14",
-        "Ubicacion": "(19.5, 2)",
-        "id": 353
+        "Ubicacion": "(19.5, 2) Estantería 2 Repisa H",
+        "id": 352
     },
     {
         "Titulo": "Contabilidad Básica.",
@@ -3890,19 +3879,19 @@
         "Año": "1990",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5651 M58",
-        "Ubicacion": "(19.8, 2)",
-        "id": 354
+        "Ubicacion": "(19.8, 2) Estantería 2 Repisa H",
+        "id": 353
     },
     {
-        "Titulo": "Administración Hotelera.",
-        "Autor": "Francisco de la Torre.",
-        "ISBN": "698-24-3871-3",
-        "Materia": "Hoteles-administración.",
-        "Año": "1995",
-        "Editorial": "trillas.",
-        "LCC": "HF 5686 H75 T6.3",
-        "Ubicacion": "(22.8, 2)",
-        "id": 355
+        "Titulo": "Contabilidad Básica.",
+        "Autor": "Joaquín Moreno Fernández.",
+        "ISBN": "968-6964-48-7",
+        "Materia": "Contabilidad básica.",
+        "Año": "1993",
+        "Editorial": "Instituto Mexicano de Contadores Publicos, A.C.",
+        "LCC": "HF 5651 M58",
+        "Ubicacion": "(20, 2) Estantería 2 Repisa H",
+        "id": 354
     },
     {
         "Titulo": "Contabilidad Intermedia 1.",
@@ -3912,8 +3901,8 @@
         "Año": "1993",
         "Editorial": "Instituto Mexicano Contadores Publicos, A.C.",
         "LCC": "HF 5651 M6 v.1",
-        "Ubicacion": "(20.3, 2)",
-        "id": 356
+        "Ubicacion": "(20.3, 2) Estantería 2 Repisa H",
+        "id": 355
     },
     {
         "Titulo": "Contabilidad Intermedia 2.",
@@ -3923,8 +3912,8 @@
         "Año": "1994",
         "Editorial": "Instituto Mexicano De Contadores Publicos, A.C.",
         "LCC": "HF 5651 M6 v.2",
-        "Ubicacion": "(20.5, 2)",
-        "id": 357
+        "Ubicacion": "(20.5, 2) Estantería 2 Repisa H",
+        "id": 356
     },
     {
         "Titulo": "Contabilidad I.",
@@ -3934,8 +3923,8 @@
         "Año": "1984",
         "Editorial": "Diana.",
         "LCC": "HF 5651 T6",
-        "Ubicacion": "(20.8, 2)",
-        "id": 358
+        "Ubicacion": "(20.8, 2) Estantería 2 Repisa H",
+        "id": 357
     },
     {
         "Titulo": "Codigo de Etica Profesional.",
@@ -3945,8 +3934,8 @@
         "Año": "1979",
         "Editorial": "Instituto Mexicano de Contadores Publicos. A.C.",
         "LCC": "HF 5657 C6",
-        "Ubicacion": "(21, 2)",
-        "id": 359
+        "Ubicacion": "(21, 2) Estantería 2 Repisa H",
+        "id": 358
     },
     {
         "Titulo": "Financial and Business Statements.",
@@ -3956,8 +3945,8 @@
         "Año": "1945",
         "Editorial": "Alexander Hamilton Institute.",
         "LCC": "HF 5681 B2 G75",
-        "Ubicacion": "(21.2, 2)",
-        "id": 360
+        "Ubicacion": "(21.2, 2) Estantería 2 Repisa H",
+        "id": 359
     },
     {
         "Titulo": "El Valor del Conocimiento.",
@@ -3967,8 +3956,8 @@
         "Año": "2000",
         "Editorial": "Prentice Hall.",
         "LCC": "HF 5681 T39",
-        "Ubicacion": "(21.5, 2)",
-        "id": 361
+        "Ubicacion": "(21.5, 2) Estantería 2 Repisa H",
+        "id": 360
     },
     {
         "Titulo": "Contabilidad para el Constructor.",
@@ -3978,8 +3967,8 @@
         "Año": "1994",
         "Editorial": "trillas.",
         "LCC": "HF 5686  B7 T4",
-        "Ubicacion": "(21.8, 2)",
-        "id": 362
+        "Ubicacion": "(21.8, 2) Estantería 2 Repisa H",
+        "id": 361
     },
     {
         "Titulo": "Contabilidad de costos.",
@@ -3989,8 +3978,8 @@
         "Año": "1988",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5686 B3218",
-        "Ubicacion": "(22, 2)",
-        "id": 363
+        "Ubicacion": "(22, 2) Estantería 2 Repisa H",
+        "id": 362
     },
     {
         "Titulo": "Como Proteger y Aumentar las Ganacias de su Empresa en un Mercado Competido.",
@@ -4000,8 +3989,8 @@
         "Año": "1994",
         "Editorial": "Panorama.",
         "LCC": "HF 5686 C8 U7",
-        "Ubicacion": "(22.5, 2)",
-        "id": 364
+        "Ubicacion": "(22.5, 2) Estantería 2 Repisa H",
+        "id": 363
     },
     {
         "Titulo": "Mantenimiento de Hoteles.",
@@ -4011,7 +4000,18 @@
         "Año": "1990",
         "Editorial": "trillas.",
         "LCC": "HF 5686 H75 D4.5",
-        "Ubicacion": "(22.5, 2)",
+        "Ubicacion": "(22.5, 2) Estantería 2 Repisa H",
+        "id": 364
+    },
+    {
+        "Titulo": "Administración Hotelera.",
+        "Autor": "Francisco de la Torre.",
+        "ISBN": "698-24-3871-3",
+        "Materia": "Hoteles-administración.",
+        "Año": "1995",
+        "Editorial": "trillas.",
+        "LCC": "HF 5686 H75 T6.3",
+        "Ubicacion": "(22.8, 2) Estantería 2 Repisa H",
         "id": 365
     },
     {
@@ -4022,7 +4022,7 @@
         "Año": "",
         "Editorial": "Lawrence Ragan Communications, Inc.",
         "LCC": "HF 5717 C685",
-        "Ubicacion": "(23, 2)",
+        "Ubicacion": "(23, 2) Estantería 2 Repisa H",
         "id": 366
     },
     {
@@ -4033,7 +4033,7 @@
         "Año": "1994",
         "Editorial": "Selector.",
         "LCC": "HF 5717 T3",
-        "Ubicacion": "(23.2, 2)",
+        "Ubicacion": "(23.2, 2) Estantería 2 Repisa H",
         "id": 367
     },
     {
@@ -4044,7 +4044,7 @@
         "Año": "1994",
         "Editorial": "Vergara.",
         "LCC": "HF 5718 B667",
-        "Ubicacion": "(23.3, 2)",
+        "Ubicacion": "(23.3, 2) Estantería 2 Repisa H",
         "id": 368
     },
     {
@@ -4055,7 +4055,7 @@
         "Año": "2004",
         "Editorial": "Harvard Business School Press.",
         "LCC": "HF 5718 R47 20004",
-        "Ubicacion": "(23.5, 2)",
+        "Ubicacion": "(23.5, 2) Estantería 2 Repisa H",
         "id": 369
     },
     {
@@ -4066,7 +4066,7 @@
         "Año": "1998",
         "Editorial": "Adams Media Corporation.",
         "LCC": "HF 5718.22 B69",
-        "Ubicacion": "(23.8, 2)",
+        "Ubicacion": "(23.8, 2) Estantería 2 Repisa H",
         "id": 370
     },
     {
@@ -4077,7 +4077,7 @@
         "Año": "1999",
         "Editorial": "Edivision.",
         "LCC": "HF 5720 L47",
-        "Ubicacion": "(24, 2)",
+        "Ubicacion": "(24, 2) Estantería 2 Repisa H",
         "id": 371
     },
     {
@@ -4088,7 +4088,7 @@
         "Año": "1985",
         "Editorial": "Modern Business.",
         "LCC": "HF 5721.2 A45 1985",
-        "Ubicacion": "(24.2, 2)",
+        "Ubicacion": "(24.2, 2) Estantería 2 Repisa H",
         "id": 372
     },
     {
@@ -4099,7 +4099,7 @@
         "Año": "1999",
         "Editorial": "PANORAMA",
         "LCC": "HF 5721 H46",
-        "Ubicacion": "(24.3, 2)",
+        "Ubicacion": "(24.3, 2) Estantería 2 Repisa H",
         "id": 373
     },
     {
@@ -4110,7 +4110,7 @@
         "Año": "1990",
         "Editorial": "McGraw-Hill",
         "LCC": "HF 5721 R64",
-        "Ubicacion": "(24.5, 2)",
+        "Ubicacion": "(24.5, 2) Estantería 2 Repisa H",
         "id": 374
     },
     {
@@ -4121,7 +4121,7 @@
         "Año": "1998",
         "Editorial": "Barron´s",
         "LCC": "HF 5726 B67",
-        "Ubicacion": "(24.6, 2)",
+        "Ubicacion": "(24.6, 2) Estantería 2 Repisa H",
         "id": 375
     },
     {
@@ -4132,7 +4132,7 @@
         "Año": "1994",
         "Editorial": "Editorial de Vecchi.",
         "LCC": "HF 5726 C65",
-        "Ubicacion": "(24.8, 2)",
+        "Ubicacion": "(24.8, 2) Estantería 2 Repisa H",
         "id": 376
     },
     {
@@ -4143,7 +4143,7 @@
         "Año": "1999",
         "Editorial": "Franklin Covey.",
         "LCC": "HF 5726 S9",
-        "Ubicacion": "(25, 2)",
+        "Ubicacion": "(25, 2) Estantería 2 Repisa H",
         "id": 377
     },
     {
@@ -4154,7 +4154,7 @@
         "Año": "1999",
         "Editorial": "Edivision.",
         "LCC": "HF 5728 I29",
-        "Ubicacion": "(25.3, 2)",
+        "Ubicacion": "(25.3, 2) Estantería 2 Repisa H",
         "id": 378
     },
     {
@@ -4165,7 +4165,7 @@
         "Año": "1997",
         "Editorial": "GRANICA",
         "LCC": "HF 5734.5 B3",
-        "Ubicacion": "(25.5, 2)",
+        "Ubicacion": "(25.5, 2) Estantería 2 Repisa H",
         "id": 379
     },
     {
@@ -4176,7 +4176,7 @@
         "Año": "1998",
         "Editorial": "grijalbo.",
         "LCC": "HF 5734.5 H56",
-        "Ubicacion": "(25.6, 2)",
+        "Ubicacion": "(25.6, 2) Estantería 2 Repisa H",
         "id": 380
     },
     {
@@ -4187,7 +4187,7 @@
         "Año": "1992",
         "Editorial": "Vergara.",
         "LCC": "HF 5823 D62 ej.1",
-        "Ubicacion": "(25.8, 2)",
+        "Ubicacion": "(25.8, 2) Estantería 2 Repisa H",
         "id": 381
     },
     {
@@ -4198,7 +4198,7 @@
         "Año": "1992",
         "Editorial": "Vergara.",
         "LCC": "HF 5823 D62 ej.2",
-        "Ubicacion": "(26, 2)",
+        "Ubicacion": "(26, 2) Estantería 2 Repisa H",
         "id": 382
     },
     {
@@ -4209,7 +4209,7 @@
         "Año": "1993",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5823 H3245",
-        "Ubicacion": "(26.5, 2)",
+        "Ubicacion": "(26.5, 2) Estantería 2 Repisa H",
         "id": 383
     },
     {
@@ -4220,7 +4220,7 @@
         "Año": "2005",
         "Editorial": "Pendiente.",
         "LCC": "HF 5825 D23 2005",
-        "Ubicacion": "1: (26.6, 2) 2: Oficina D-3",
+        "Ubicacion": "1: (26.6, 2) Estantería 2 Repisa H , 2: Oficina D-3",
         "id": 384
     },
     {
@@ -4231,7 +4231,7 @@
         "Año": "2001",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5827.2 R53",
-        "Ubicacion": "(26.8, 2)",
+        "Ubicacion": "(26.8, 2) Estantería 2 Repisa H",
         "id": 385
     },
     {
@@ -4242,7 +4242,7 @@
         "Año": "1992",
         "Editorial": "McGraw-Hill.",
         "LCC": "HF 5827.2 R53 P87",
-        "Ubicacion": "(27, 2)",
+        "Ubicacion": "(27, 2) Estantería 2 Repisa H",
         "id": 386
     },
     {
@@ -4253,7 +4253,7 @@
         "Año": "1988",
         "Editorial": "Van Nostran Reinhold.",
         "LCC": "HF 5841 D492",
-        "Ubicacion": "(27.2, 2)",
+        "Ubicacion": "(27.2, 2) Estantería 2 Repisa H",
         "id": 387
     },
     {
@@ -4264,7 +4264,7 @@
         "Año": "1990",
         "Editorial": "Retail Reporting Corp.",
         "LCC": "HF 5841 M36",
-        "Ubicacion": "(27.5, 2)",
+        "Ubicacion": "(27.5, 2) Estantería 2 Repisa H",
         "id": 388
     },
     {
@@ -4275,7 +4275,7 @@
         "Año": "1988",
         "Editorial": "Retail Reporting Corporation New York.",
         "LCC": "HF 5841 S7",
-        "Ubicacion": "(15, 1)",
+        "Ubicacion": "(15, 1) Estantería 2 Repisa H",
         "id": 389
     },
     {
@@ -4286,7 +4286,7 @@
         "Año": "1986",
         "Editorial": "PBC International, Inc., New York.",
         "LCC": "HF 5841 S525",
-        "Ubicacion": "(15.5, 1)",
+        "Ubicacion": "(15.5, 1) Estantería 2 Repisa H",
         "id": 390
     },
     {
@@ -4297,7 +4297,7 @@
         "Año": "1982",
         "Editorial": "ST Publications, Cincinnati, Ohio.",
         "LCC": "HF 5845 C665",
-        "Ubicacion": "(16, 1)",
+        "Ubicacion": "(16, 1) Estantería 2 Repisa H",
         "id": 391
     },
     {
@@ -4308,7 +4308,7 @@
         "Año": "1989",
         "Editorial": "Retail Reporting Corporation New York.",
         "LCC": "HF 5845 P37",
-        "Ubicacion": "(16.3, 1)",
+        "Ubicacion": "(16.3, 1) Estantería 2 Repisa H",
         "id": 392
     },
     {
@@ -4319,7 +4319,7 @@
         "Año": "1998",
         "Editorial": "Touchstone Book.",
         "LCC": "HG 106.82 D46",
-        "Ubicacion": "(16.6, 1)",
+        "Ubicacion": "(16.6, 1) Estantería 2 Repisa H",
         "id": 393
     },
     {
@@ -4330,7 +4330,7 @@
         "Año": "1992",
         "Editorial": "Editorial PAC, S.A. DE C.V.",
         "LCC": "HG 157 C34",
-        "Ubicacion": "(17, 1)",
+        "Ubicacion": "(17, 1) Estantería 2 Repisa H",
         "id": 394
     },
     {
@@ -4341,7 +4341,7 @@
         "Año": "1995",
         "Editorial": "Gestión 2000",
         "LCC": "HG 172 B84 H34",
-        "Ubicacion": "(17.3, 1)",
+        "Ubicacion": "(17.3, 1) Estantería 2 Repisa H",
         "id": 395
     },
     {
@@ -4352,7 +4352,7 @@
         "Año": "1998",
         "Editorial": "Warner Books.",
         "LCC": "HG 179 B418",
-        "Ubicacion": "(17.6, 1)",
+        "Ubicacion": "(17.6, 1) Estantería 2 Repisa H",
         "id": 396
     },
     {
@@ -4363,7 +4363,7 @@
         "Año": "2005",
         "Editorial": "Broadway Books New York.",
         "LCC": "HG 179 B234 2005",
-        "Ubicacion": "(18, 1)",
+        "Ubicacion": "(18, 1) Estantería 2 Repisa H",
         "id": 397
     },
     {
@@ -4374,7 +4374,7 @@
         "Año": "1999",
         "Editorial": "Warner Books",
         "LCC": "HG 179 K563",
-        "Ubicacion": "(18.3, 1)",
+        "Ubicacion": "(18.3, 1) Estantería 2 Repisa H",
         "id": 398
     },
     {
@@ -4385,7 +4385,7 @@
         "Año": "2006",
         "Editorial": "Rich Press, Inc.",
         "LCC": "HG 179 T78 2006",
-        "Ubicacion": "(19, 1)",
+        "Ubicacion": "(19, 1) Estantería 2 Repisa H",
         "id": 399
     },
     {
@@ -4396,7 +4396,7 @@
         "Año": "1998",
         "Editorial": "TechPress, Inc.",
         "LCC": "HG 179 K565 Ej.1",
-        "Ubicacion": "(18.5, 1)",
+        "Ubicacion": "(18.5, 1) Estantería 2 Repisa H",
         "id": 400
     },
     {
@@ -4407,7 +4407,7 @@
         "Año": "2000",
         "Editorial": "Andrews McMeel Publishing Kansas City.",
         "LCC": "HG 222.3 S72",
-        "Ubicacion": "(19.5, 1)",
+        "Ubicacion": "(19.5, 1) Estantería 2 Repisa H",
         "id": 401
     },
     {
@@ -4418,7 +4418,7 @@
         "Año": "1995",
         "Editorial": "Diana.",
         "LCC": "HG 665 P32",
-        "Ubicacion": "(19.8, 1)",
+        "Ubicacion": "(19.8, 1) Estantería 2 Repisa H",
         "id": 402
     },
     {
@@ -4429,7 +4429,7 @@
         "Año": "1991",
         "Editorial": "McGraw-Hill.",
         "LCC": "HG 1616 C87 P53 Ej.1",
-        "Ubicacion": "(20, 1)",
+        "Ubicacion": "(20, 1) Estantería 2 Repisa H",
         "id": 403
     },
     {
@@ -4440,7 +4440,7 @@
         "Año": "1991",
         "Editorial": "McGraw-Hill.",
         "LCC": "HG 1616 C87 P53 Ej.2",
-        "Ubicacion": "(20.3, 1)",
+        "Ubicacion": "(20.3, 1) Estantería 2 Repisa H",
         "id": 404
     },
     {
@@ -4451,7 +4451,7 @@
         "Año": "2000",
         "Editorial": "McGraw-Hill.",
         "LCC": "HG 1616 D46 2000",
-        "Ubicacion": "(20.6, 1)",
+        "Ubicacion": "(20.6, 1) Estantería 2 Repisa H",
         "id": 405
     },
     {
@@ -4462,7 +4462,7 @@
         "Año": "1965",
         "Editorial": "CECSA",
         "LCC": "HG 3752.5 E66",
-        "Ubicacion": "(21, 1)",
+        "Ubicacion": "(21, 1) Estantería 2 Repisa H",
         "id": 406
     },
     {
@@ -4473,7 +4473,7 @@
         "Año": "1999",
         "Editorial": "taxxx",
         "LCC": "HG 4001 M64",
-        "Ubicacion": "(21.3, 1)",
+        "Ubicacion": "(21.3, 1) Estantería 2 Repisa H",
         "id": 407
     },
     {
@@ -4484,7 +4484,7 @@
         "Año": "1992",
         "Editorial": "Ediciones Fiscales ISEF, S.A.",
         "LCC": "HG 4011 H34 1992",
-        "Ubicacion": "(21.5, 1)",
+        "Ubicacion": "(21.5, 1) Estantería 2 Repisa H",
         "id": 408
     },
     {
@@ -4495,7 +4495,7 @@
         "Año": "1979",
         "Editorial": "The Dryden Press Hinsdale, Illionois.",
         "LCC": "HG 4026 B669",
-        "Ubicacion": "(22, 1)",
+        "Ubicacion": "(22, 1) Estantería 2 Repisa H",
         "id": 409
     },
     {
@@ -4506,7 +4506,7 @@
         "Año": "2003",
         "Editorial": "Harvad Business School Press Boston, Massachusetts.",
         "LCC": "HG 4026 F494 2003",
-        "Ubicacion": "(22.2, 1)",
+        "Ubicacion": "(22.2, 1) Estantería 2 Repisa H",
         "id": 410
     },
     {
@@ -4517,7 +4517,7 @@
         "Año": "1992",
         "Editorial": "Addison-Wesley Iberoamericana.",
         "LCC": "HG 4028 B8 A5",
-        "Ubicacion": "(22.4, 1)",
+        "Ubicacion": "(22.4, 1) Estantería 2 Repisa H",
         "id": 411
     },
     {
@@ -4528,7 +4528,7 @@
         "Año": "1992",
         "Editorial": "LIMUSA.",
         "LCC": "HG 4028 C45",
-        "Ubicacion": "(22.5, 1)",
+        "Ubicacion": "(22.5, 1) Estantería 2 Repisa H",
         "id": 412
     },
     {
@@ -4539,7 +4539,7 @@
         "Año": "2000",
         "Editorial": "CIS.",
         "LCC": "HG 4092 Z65 F67 2000",
-        "Ubicacion": "(22.8, 1)",
+        "Ubicacion": "(22.8, 1) Estantería 2 Repisa H",
         "id": 413
     },
     {
@@ -4550,7 +4550,7 @@
         "Año": "1985",
         "Editorial": "IMEF.",
         "LCC": "HG 4521 M355",
-        "Ubicacion": "(23, 1)",
+        "Ubicacion": "(23, 1) Estantería 2 Repisa H",
         "id": 414
     },
     {
@@ -4561,7 +4561,7 @@
         "Año": "1999",
         "Editorial": "Oxford University Press.",
         "LCC": "HG 4538 M84",
-        "Ubicacion": "(23.5, 1)",
+        "Ubicacion": "(23.5, 1) Estantería 2 Repisa H",
         "id": 415
     },
     {
@@ -4572,7 +4572,7 @@
         "Año": "1999",
         "Editorial": "Prima Publishing.",
         "LCC": "HF 4910 C355",
-        "Ubicacion": "(23.8, 1)",
+        "Ubicacion": "(23.8, 1) Estantería 2 Repisa H",
         "id": 416
     },
     {
@@ -4583,7 +4583,7 @@
         "Año": "1999",
         "Editorial": "Simon & Schuster.",
         "LCC": "HG 4910 D46",
-        "Ubicacion": "(24, 1)",
+        "Ubicacion": "(24, 1) Estantería 2 Repisa H",
         "id": 417
     },
     {
@@ -4594,7 +4594,7 @@
         "Año": "2000",
         "Editorial": "Princenton University Press New Jersey.",
         "LCC": "HG 4910 S457",
-        "Ubicacion": "(24.7, 1)",
+        "Ubicacion": "(24.7, 1) Estantería 2 Repisa H",
         "id": 418
     },
     {
@@ -4605,7 +4605,7 @@
         "Año": "2000",
         "Editorial": "New York Institute of Finance.",
         "LCC": "HG 4921 N53",
-        "Ubicacion": "(25, 1)",
+        "Ubicacion": "(25, 1) Estantería 2 Repisa H",
         "id": 419
     },
     {
@@ -4616,7 +4616,7 @@
         "Año": "1991",
         "Editorial": "Ediciones Fiscales ISEF, S.A.",
         "LCC": "HJ 806 R84",
-        "Ubicacion": "(25.3, 1)",
+        "Ubicacion": "(25.3, 1) Estantería 2 Repisa H",
         "id": 420
     },
     {
@@ -4627,7 +4627,7 @@
         "Año": "1993",
         "Editorial": "ECASA.",
         "LCC": "HJ 2005 R54",
-        "Ubicacion": "(25.8, 1)",
+        "Ubicacion": "(25.8, 1) Estantería 2 Repisa H",
         "id": 421
     },
     {
@@ -4638,7 +4638,7 @@
         "Año": "1996",
         "Editorial": "Ediciones Fiscales ISEF, S.A.",
         "LCC": "HJ 2341 B37",
-        "Ubicacion": "(26, 1)",
+        "Ubicacion": "(26, 1) Estantería 2 Repisa H",
         "id": 422
     },
     {
@@ -4649,7 +4649,7 @@
         "Año": "1994",
         "Editorial": "Rocár.",
         "LCC": "HJ 2348.5 M55",
-        "Ubicacion": "(26.5, 1)",
+        "Ubicacion": "(26.5, 1) Estantería 2 Repisa H",
         "id": 423
     },
     {
@@ -4660,7 +4660,7 @@
         "Año": "1993",
         "Editorial": "Instituto Mexicano de Contadores Publicos, A.C.",
         "LCC": "HJ 3245 M3 Ej.1",
-        "Ubicacion": "(26.8, 1)",
+        "Ubicacion": "(26.8, 1) Estantería 2 Repisa H",
         "id": 424
     },
     {
@@ -4671,7 +4671,7 @@
         "Año": "1993",
         "Editorial": "Instituto Mexicano de Contadores Publicos, A.C.",
         "LCC": "HJ 3245 M3 Ej.2",
-        "Ubicacion": "(27, 1)",
+        "Ubicacion": "(27, 1) Estantería 2 Repisa H",
         "id": 425
     },
     {
@@ -4682,7 +4682,7 @@
         "Año": "1994",
         "Editorial": "Linea Editorial Fiscal PAF.",
         "LCC": "HJ 3245 M8",
-        "Ubicacion": "(27.1, 1)",
+        "Ubicacion": "(27.1, 1) Estantería 2 Repisa H",
         "id": 426
     },
     {
@@ -4693,7 +4693,7 @@
         "Año": "1992",
         "Editorial": "cnic.",
         "LCC": "HJ 5701 M3 S53",
-        "Ubicacion": "(27.2, 1)",
+        "Ubicacion": "(27.2, 1) Estantería 2 Repisa H",
         "id": 427
     },
     {
@@ -4704,7 +4704,7 @@
         "Año": "2005",
         "Editorial": "taurus.",
         "LCC": "HJ 101 53318 2005",
-        "Ubicacion": "(27.5, 1)",
+        "Ubicacion": "(27.5, 1) Estantería 2 Repisa H",
         "id": 428
     },
     {
@@ -4715,7 +4715,7 @@
         "Año": "1997",
         "Editorial": "Herrero Hnos. SUCS., S.A.",
         "LCC": "HM 131 R45",
-        "Ubicacion": "(28, 1)",
+        "Ubicacion": "(28, 1) Estantería 2 Repisa H",
         "id": 429
     },
     {
@@ -4726,7 +4726,7 @@
         "Año": "1997",
         "Editorial": "ST. Martin´s Griffin.",
         "LCC": "HM 132 B69",
-        "Ubicacion": "(15, 0)",
+        "Ubicacion": "(15, 0) Estantería 2 Repisa H",
         "id": 430
     },
     {
@@ -4737,7 +4737,7 @@
         "Año": "1995",
         "Editorial": "Ariel Divulgación.",
         "LCC": "HM 258 H65",
-        "Ubicacion": "(15.5, 0)",
+        "Ubicacion": "(15.5, 0) Estantería 2 Repisa H",
         "id": 431
     },
     {
@@ -4748,7 +4748,7 @@
         "Año": "1992",
         "Editorial": "trillas.",
         "LCC": "HM 258 T6.2",
-        "Ubicacion": "(15.8, 0)",
+        "Ubicacion": "(15.8, 0) Estantería 2 Repisa H",
         "id": 432
     },
     {
@@ -4759,7 +4759,7 @@
         "Año": "1992",
         "Editorial": "trillas.",
         "LCC": "HM 261 R5.6",
-        "Ubicacion": "(16, 0)",
+        "Ubicacion": "(16, 0) Estantería 2 Repisa H",
         "id": 433
     },
     {
@@ -4770,7 +4770,7 @@
         "Año": "2002",
         "Editorial": "Plaza Janés.",
         "LCC": "HM 1261 G58 2002",
-        "Ubicacion": "(16.5, 0)",
+        "Ubicacion": "(16.5, 0) Estantería 2 Repisa H",
         "id": 434
     },
     {
@@ -4781,7 +4781,7 @@
         "Año": "2005",
         "Editorial": "Penguin Books.",
         "LCC": "HN 13 D5 2005",
-        "Ubicacion": "(16.7, 0)",
+        "Ubicacion": "(16.7, 0) Estantería 2 Repisa H",
         "id": 435
     },
     {
@@ -4792,7 +4792,7 @@
         "Año": "1999",
         "Editorial": "Castillo.",
         "LCC": "HN 59 C35",
-        "Ubicacion": "(17, 0)",
+        "Ubicacion": "(17, 0) Estantería 2 Repisa H",
         "id": 436
     },
     {
@@ -4803,7 +4803,7 @@
         "Año": "2009",
         "Editorial": "Estudios Urbanos.",
         "LCC": "HN 120 C6 R35 2009",
-        "Ubicacion": "(17.3, 0)",
+        "Ubicacion": "(17.3, 0) Estantería 2 Repisa H",
         "id": 437
     },
     {
@@ -4814,7 +4814,7 @@
         "Año": "1992",
         "Editorial": "Unilit.",
         "LCC": "HQ 734 C466 Ej.2",
-        "Ubicacion": "(17.4, 0)",
+        "Ubicacion": "(17.4, 0) Estantería 2 Repisa H",
         "id": 438
     },
     {
@@ -4825,7 +4825,7 @@
         "Año": "2001",
         "Editorial": "trillas.",
         "LCC": "HT 111 B39 2001",
-        "Ubicacion": "(17.6, 0)",
+        "Ubicacion": "(17.6, 0) Estantería 2 Repisa H",
         "id": 439
     },
     {
@@ -4836,7 +4836,7 @@
         "Año": "1975",
         "Editorial": "Gustavo Gili, S.A.",
         "LCC": "HT 111 L49 1975",
-        "Ubicacion": "(18, 0)",
+        "Ubicacion": "(18, 0) Estantería 2 Repisa H",
         "id": 440
     },
     {
@@ -4847,7 +4847,7 @@
         "Año": "2003",
         "Editorial": "GG",
         "LCC": "HT 119.5 M44 2003",
-        "Ubicacion": "(18.4, 0)",
+        "Ubicacion": "(18.4, 0) Estantería 2 Repisa H",
         "id": 441
     },
     {
@@ -4858,7 +4858,7 @@
         "Año": "2004",
         "Editorial": "OCEANO",
         "LCC": "HT 151 O73 2004",
-        "Ubicacion": "(18.6, 0)",
+        "Ubicacion": "(18.6, 0) Estantería 2 Repisa H",
         "id": 442
     },
     {
@@ -4869,7 +4869,7 @@
         "Año": "1972",
         "Editorial": "University of Illions Press Urbana, Chicago, London.",
         "LCC": "HT 153 C33",
-        "Ubicacion": "(19, 0)",
+        "Ubicacion": "(19, 0) Estantería 2 Repisa H",
         "id": 443
     },
     {
@@ -4880,7 +4880,7 @@
         "Año": "2012",
         "Editorial": "LIMUSA",
         "LCC": "HT 166 2012",
-        "Ubicacion": "(19.5, 0)",
+        "Ubicacion": "(19.5, 0) Estantería 2 Repisa H",
         "id": 444
     },
     {
@@ -4891,7 +4891,7 @@
         "Año": "1979",
         "Editorial": "McGraw-Hill.",
         "LCC": "HT 166 I67",
-        "Ubicacion": "(19.8, 0)",
+        "Ubicacion": "(19.8, 0) Estantería 2 Repisa H",
         "id": 445
     },
     {
@@ -4902,7 +4902,7 @@
         "Año": "2004",
         "Editorial": "CYTED.",
         "LCC": "HT 166 R66 2004",
-        "Ubicacion": "(20, 0)",
+        "Ubicacion": "(20, 0) Estantería 2 Repisa H",
         "id": 446
     },
     {
@@ -4913,7 +4913,7 @@
         "Año": "2003",
         "Editorial": "McGraw-Hill.",
         "LCC": "HT 166 T47",
-        "Ubicacion": "(20.5, 0)",
+        "Ubicacion": "(20.5, 0) Estantería 2 Repisa H",
         "id": 447
     },
     {
@@ -4924,7 +4924,7 @@
         "Año": "2004",
         "Editorial": "Architectural Press.",
         "LCC": "HT 166 W235 2004",
-        "Ubicacion": "(21, 0)",
+        "Ubicacion": "(21, 0) Estantería 2 Repisa H",
         "id": 448
     },
     {
@@ -4935,7 +4935,7 @@
         "Año": "1971",
         "Editorial": "The Free Press.",
         "LCC": "HT 167 A75",
-        "Ubicacion": "(21.3, 0)",
+        "Ubicacion": "(21.3, 0) Estantería 2 Repisa H",
         "id": 449
     },
     {
@@ -4946,7 +4946,7 @@
         "Año": "2001",
         "Editorial": "Island Press.",
         "LCC": "HT 167 B46 2001",
-        "Ubicacion": "(21.5, 0)",
+        "Ubicacion": "(21.5, 0) Estantería 2 Repisa H",
         "id": 450
     },
     {
@@ -4957,7 +4957,7 @@
         "Año": "1979",
         "Editorial": "University of Illinois Press.",
         "LCC": "HT 167 C45",
-        "Ubicacion": "(22, 0)",
+        "Ubicacion": "(22, 0) Estantería 2 Repisa H",
         "id": 451
     },
     {
@@ -4968,7 +4968,7 @@
         "Año": "2011",
         "Editorial": "The Taunton Press.",
         "LCC": "HT 167 C454 2011",
-        "Ubicacion": "(22.5, 0)",
+        "Ubicacion": "(22.5, 0) Estantería 2 Repisa H",
         "id": 452
     },
     {
@@ -4979,7 +4979,7 @@
         "Año": "1979",
         "Editorial": "International City Management Association.",
         "LCC": "HT 167 P7",
-        "Ubicacion": "(23, 0)",
+        "Ubicacion": "(23, 0) Estantería 2 Repisa H",
         "id": 453
     },
     {
@@ -4990,7 +4990,7 @@
         "Año": "1981",
         "Editorial": "Sahop.",
         "LCC": "HT 167 S2",
-        "Ubicacion": "(23.8, 0)",
+        "Ubicacion": "(23.8, 0) Estantería 2 Repisa H",
         "id": 454
     },
     {
@@ -5001,7 +5001,7 @@
         "Año": "2012",
         "Editorial": "new society.",
         "LCC": "HT 169 C2 R67 2012",
-        "Ubicacion": "(24, 0)",
+        "Ubicacion": "(24, 0) Estantería 2 Repisa H",
         "id": 455
     },
     {
@@ -5012,7 +5012,7 @@
         "Año": "2010",
         "Editorial": "Blok Design.",
         "LCC": "HT 169 M42 M4963 2010",
-        "Ubicacion": "(24.5, 0)",
+        "Ubicacion": "(24.5, 0) Estantería 2 Repisa H",
         "id": 456
     },
     {
@@ -5023,7 +5023,7 @@
         "Año": "2019",
         "Editorial": "Alfaomega.",
         "LCC": "HT 169 M86 2019",
-        "Ubicacion": "(25, 0)",
+        "Ubicacion": "(25, 0) Estantería 2 Repisa H",
         "id": 457
     },
     {
@@ -5034,7 +5034,7 @@
         "Año": "2002",
         "Editorial": "GG.",
         "LCC": "HT 169 R83 2002",
-        "Ubicacion": "(25.3, 0)",
+        "Ubicacion": "(25.3, 0) Estantería 2 Repisa H",
         "id": 458
     },
     {
@@ -5045,7 +5045,7 @@
         "Año": "2020",
         "Editorial": "Travesias Editores, S.A. de C.V.",
         "LCC": "HT 169.57 M6 G37 2020",
-        "Ubicacion": "(25.5, 0)",
+        "Ubicacion": "(25.5, 0) Estantería 2 Repisa H",
         "id": 459
     },
     {
@@ -5056,7 +5056,7 @@
         "Año": "2010",
         "Editorial": "CAJA MADRID.",
         "LCC": "HT 241 S65 2010",
-        "Ubicacion": "(25.8, 0)",
+        "Ubicacion": "(25.8, 0) Estantería 2 Repisa H",
         "id": 460
     },
     {
@@ -5067,41 +5067,8 @@
         "Año": "2008",
         "Editorial": "John Wiley & Sons, Inc.",
         "LCC": "HT 241 S8736 2008",
-        "Ubicacion": "(26, 0)",
+        "Ubicacion": "(26, 0) Estantería 2 Repisa H",
         "id": 461
-    },
-    {
-        "Titulo": "A Reader in Planning Theory.",
-        "Autor": "Andreas Faludi.",
-        "ISBN": "0-08-017066-8",
-        "Materia": "Cities and towns. Planning 1945-Lectures.",
-        "Año": "1973",
-        "Editorial": "Pergamon Inernational Library.",
-        "LCC": "HT 391 F27",
-        "Ubicacion": "(26.5, 0)",
-        "id": 462
-    },
-    {
-        "Titulo": "Smart Growth.",
-        "Autor": "Jon Reeds.",
-        "ISBN": "978-1-900322-82-9",
-        "Materia": "Planificación regional —Gran Bretaña.",
-        "Año": "2011",
-        "Editorial": "green books.",
-        "LCC": "HT 392 R44 2011",
-        "Ubicacion": "(26.8, 0)",
-        "id": 463
-    },
-    {
-        "Titulo": "Coastal Resources Management.",
-        "Autor": "Robert B. Ditton.",
-        "ISBN": "0-669-00970-9",
-        "Materia": "Coastal zone management-United States.",
-        "Año": "1977",
-        "Editorial": "Lexington Books.",
-        "LCC": "HT 392 S49",
-        "Ubicacion": "(27, 0)",
-        "id": 464
     },
     {
         "Titulo": "Green Cities of Europe.",
@@ -5111,7 +5078,40 @@
         "Año": "2012",
         "Editorial": "Island Press.",
         "LCC": "HT 243 E85 B43 2012",
-        "Ubicacion": "(26.2, 0)",
+        "Ubicacion": "(26.2, 0) Estantería 2 Repisa H",
+        "id": 462
+    },
+    {
+        "Titulo": "A Reader in Planning Theory.",
+        "Autor": "Andreas Faludi.",
+        "ISBN": "0-08-017066-8",
+        "Materia": "Cities and towns. Planning 1945-Lectures.",
+        "Año": "1973",
+        "Editorial": "Pergamon Inernational Library.",
+        "LCC": "HT 391 F27",
+        "Ubicacion": "(26.5, 0) Estantería 2 Repisa H",
+        "id": 463
+    },
+    {
+        "Titulo": "Smart Growth.",
+        "Autor": "Jon Reeds.",
+        "ISBN": "978-1-900322-82-9",
+        "Materia": "Planificación regional —Gran Bretaña.",
+        "Año": "2011",
+        "Editorial": "green books.",
+        "LCC": "HT 392 R44 2011",
+        "Ubicacion": "(26.8, 0) Estantería 2 Repisa H",
+        "id": 464
+    },
+    {
+        "Titulo": "Coastal Resources Management.",
+        "Autor": "Robert B. Ditton.",
+        "ISBN": "0-669-00970-9",
+        "Materia": "Coastal zone management-United States.",
+        "Año": "1977",
+        "Editorial": "Lexington Books.",
+        "LCC": "HT 392 S49",
+        "Ubicacion": "(27, 0) Estantería 2 Repisa H",
         "id": 465
     },
     {
@@ -5122,7 +5122,7 @@
         "Año": "1993",
         "Editorial": "Harper Paperbacks.",
         "LCC": "HV 6446 D37",
-        "Ubicacion": "(27.5, 0)",
+        "Ubicacion": "(27.5, 0) Estantería 2 Repisa H",
         "id": 466
     },
     {
