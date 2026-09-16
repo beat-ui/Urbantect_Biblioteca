@@ -11,41 +11,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# CSS para aprovechar todo el ancho de la pantalla
-st.markdown("""
-    <style>
-        .block-container,
-        .block-container.css-1y4p8pa,
-        .block-container.css-91z34k,
-        .stApp > header + div {
-            padding-left: 0.5rem !important;
-            padding-right: 0.5rem !important;
-            padding-top: 0.5rem !important;
-            max-width: 100% !important;
-            width: 100% !important;
-        }
-        section.main,
-        section.main > div {
-            max-width: 100% !important;
-            width: 100% !important;
-            padding: 0 !important;
-        }
-        div[data-testid="stDataFrame"],
-        div[data-testid="stDataFrame"] > div,
-        div[data-testid="stDataFrameResizable"],
-        div[data-testid="stDataFrame"] iframe {
-            width: 100% !important;
-            max-width: 100% !important;
-        }
-        .main .block-container {
-            padding-left: 0.5rem !important;
-            padding-right: 0.5rem !important;
-        }
-        [data-testid="stSidebar"] {
-            min-width: 250px !important;
-        }
-    </style>
-""", unsafe_allow_html=True)
 
 # ==================== FUNCIONES DE ARCHIVO ====================
 def obtener_ruta_app():
