@@ -115,6 +115,9 @@ if "libro_en_edicion" not in st.session_state:
 if "mensaje_exito" not in st.session_state:
     st.session_state.mensaje_exito = None
 
+if "libro_seleccionado_id" not in st.session_state:
+    st.session_state.libro_seleccionado_id = None
+
 # ==================== ENCABEZADO ====================
 st.title("INVENTARIO DE LA BIBLIOTECA")
 
@@ -226,6 +229,7 @@ if termino_global:
 
 # ==================== TABLA ====================
 st.subheader(f"Libros Registrados ({len(libros_filtrados)} encontrados)")
+st.caption("Haz clic en una fila de la tabla para seleccionar un libro.")
 
 if libros_filtrados:
     datos_tabla = []
@@ -242,21 +246,24 @@ if libros_filtrados:
             "Ubicacion": libro.get("Ubicacion", ""),
         })
 
-    # Altura responsive: leer la altura real de la ventana del navegador
     altura_pantalla = streamlit_js_eval(js_expressions='window.innerHeight', key='altura_ventana')
 
     if altura_pantalla:
-        altura_dataframe = int(altura_pantalla) - 400  # 400 px reservados para encabezados
+        altura_dataframe = int(altura_pantalla) - 450
         if altura_dataframe < 300:
-            altura_dataframe = 300  # Mínimo razonable
+            altura_dataframe = 300
     else:
-        altura_dataframe = 600  # Valor de respaldo mientras carga JS
+        altura_dataframe = 600
 
-    st.dataframe(
+    # Tabla con selección por clic
+    evento = st.dataframe(
         datos_tabla,
         use_container_width=True,
         hide_index=True,
         height=altura_dataframe,
+        on_select="rerun",
+        selection_mode="single-row",
+        key="tabla_libros",
         column_config={
             "No.": st.column_config.NumberColumn("No.", width="small"),
             "LCC": st.column_config.TextColumn("LCC", width="small"),
@@ -269,21 +276,29 @@ if libros_filtrados:
             "Ubicacion": st.column_config.TextColumn("Ubicación", width="small"),
         }
     )
+
+    # Detectar si el usuario hizo clic en alguna fila
+    filas_seleccionadas = evento.selection.rows
+    if filas_seleccionadas:
+        idx_fila = filas_seleccionadas[0]
+        libro_sel = libros_filtrados[idx_fila]
+        st.session_state.libro_seleccionado_id = libro_sel.get("id")
+        st.success(f"Libro seleccionado: **{libro_sel.get('Titulo', '')}**")
 else:
     st.warning("No se encontraron libros.")
 
 # ==================== ACCIONES SOBRE LIBRO SELECCIONADO ====================
-if libros_filtrados:
+libro_sel = None
+if st.session_state.libro_seleccionado_id is not None:
+    for l in st.session_state.libros:
+        if l.get("id") == st.session_state.libro_seleccionado_id:
+            libro_sel = l
+            break
+
+if libro_sel:
     st.divider()
-    st.subheader("Acciones sobre el libro")
-
-    opciones = {
-        f"{i}. {libro.get('Titulo', 'Sin título')} — {libro.get('Autor', '')}": (i - 1, libro)
-        for i, libro in enumerate(libros_filtrados, 1)
-    }
-
-    seleccion = st.selectbox("Selecciona un libro:", list(opciones.keys()))
-    idx_filtrado, libro_sel = opciones[seleccion]
+    st.subheader("Acciones sobre el libro seleccionado")
+    st.info(f"Seleccionado: **{libro_sel.get('Titulo', '')}** — {libro_sel.get('Autor', '')}")
 
     if st.session_state.modo == "Consultar":
         col1, col2 = st.columns([1, 1])
@@ -310,9 +325,9 @@ if libros_filtrados:
                 if guardar_datos(st.session_state.libros):
                     st.session_state.mensaje_exito = f"Libro '{libro_sel.get('Titulo', '')}' eliminado."
                     st.session_state.libro_en_edicion = None
+                    st.session_state.libro_seleccionado_id = None
                     st.rerun()
 
-        # ==================== ORDENAMIENTO MANUAL ====================
         st.markdown("##### Ordenamiento manual")
         st.caption("Mueve este libro dentro de la lista. Solo funciona cuando ves TODOS los libros (sin filtros).")
 
@@ -414,10 +429,18 @@ if st.session_state.libro_en_edicion:
                     "id": libro.get("id")
                 }
 
+                # === AQUÍ ESTÁ EL CAMBIO CLAVE ===
+                # Solo reordenar si el LCC cambió. Si no, mantiene la posición.
+                lcc_cambio = libro_actualizado["LCC"] != libro.get("LCC", "")
+
                 idx = st.session_state.libros.index(libro)
                 st.session_state.libros.pop(idx)
-                nueva_pos = encontrar_posicion_por_lcc(libro_actualizado, st.session_state.libros)
-                st.session_state.libros.insert(nueva_pos, libro_actualizado)
+
+                if lcc_cambio:
+                    nueva_pos = encontrar_posicion_por_lcc(libro_actualizado, st.session_state.libros)
+                    st.session_state.libros.insert(nueva_pos, libro_actualizado)
+                else:
+                    st.session_state.libros.insert(idx, libro_actualizado)
 
                 for i, l in enumerate(st.session_state.libros, 1):
                     l["id"] = i
